@@ -3,14 +3,14 @@ main:
   - title: "Home"
     url: /
     
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
-  - title: "Projects"
-    url: /projects/    
+#  - title: "Projects"
+#    url: /projects/    
 
-  - title: "Stata"
-    url: /stata/    
+#  - title: "Stata"
+#    url: /stata/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
