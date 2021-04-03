@@ -14,6 +14,8 @@ Having lived in three different continents, the research topics I work on are fa
 
 I am a data person at heart and I have an obsession with collecting datasets. Please see my Stata Guide on Medium which extensively covers data management and visualizations.
 
+[Download latest CV here](http://asjadnaqvi.github.io/files/CV_Asjad_2021.pdf)
+
 
 Education
 --------
