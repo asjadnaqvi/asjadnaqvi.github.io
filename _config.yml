@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Asjad Naqvi / Personal website"
+title                    : "Personal website"
 title_separator          : "-"
 name                     : &name "Asjad Naqvi"
 description              : &description "personal description"
@@ -85,7 +85,7 @@ author:
   bio              : "Research Scholar (IIASA), Assistant Professor (WU Vienna)"
   location         : "Vienna, Austria"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en"
   email            : "asjadnaqvi@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Asjad-Naqvi-2"
