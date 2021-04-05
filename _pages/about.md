@@ -43,6 +43,11 @@ Research Associate, Lahore University of Management Sciences (LUMS), Lahore, Pak
 Lecturer, University College Lahore, Lahore, Pakistan (2001 -- 2004)
 
 
+Papers
+------
+
+
+
 Grants
 -----
 
