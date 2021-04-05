@@ -10,8 +10,11 @@ redirect_from:
 
 Welcome to my personal website. I am currently based in Vienna, Austria where I am working as a Researcher Scholar at the International Institute for Applied Systems Analysis (IIASA), and as an Assistant Professor at the Institute for Ecological Economics, Department of Socioeconomics, Vienna University of Economics and Business (WU). Previously, I was the Research Director at the Center for Economic Research in Pakistan (CERP). I recieved my Ph.D. in Economics from the New School for Social Research (New York) (2007-2012). Before 2007, I was based in Lahore, Pakistan working on various field experiments and research projects for the Lahore University of Management Sciences (LUMS) and the World Bank. 
 
-Having lived in three different continents, the research topics I work on are fairly broad. Currently, I am interested in exploring topics of environment inequality, the role of finance in climate policies, North-South trade, migration, and climate change relationships, and cascading impact of climate-led shocks. The tools that I utilize across various projects are macroeconomic models, agent-based models, and causal inference designs. The tools that I use for these topics are Mathematica, NetLogo, and Stata respectively.
+Having lived in three different continents, the research topics I work on are fairly broad. Currently, I am interested in exploring topics of environment inequality, the role of finance in climate policies, North-South trade, migration, and climate change relationships, and cascading impact of climate-led shocks. I am dealing with these topics across various projects using macroeconomic models, agent-based models, and causal inference designs. As a result, I am consistenly writing code in Mathematica, NetLogo, and Stata.
 
+Please see links on the left for more details until this page is updated.
+
+For Stata stuff, check out the Stata Guide on Medium: https://medium.com/the-stata-guide
 
 
 [Download latest CV here](http://asjadnaqvi.github.io/files/CV_Asjad_2021.pdf)
