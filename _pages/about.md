@@ -14,7 +14,7 @@ Having lived in three different continents, the research topics I work on are fa
 
 Please see links on the left for more details until this page is updated.
 
-For Stata stuff, check out the Stata Guide on Medium: https://medium.com/the-stata-guide
+For Stata stuff, check out [the Stata Guide on Medium](https://medium.com/the-stata-guide)
 
 
 [Download latest CV here](http://asjadnaqvi.github.io/files/CV_Asjad_2021.pdf)
