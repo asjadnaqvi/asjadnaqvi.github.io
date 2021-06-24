@@ -14,7 +14,6 @@ Having lived in three different continents, the research topics I work on are fa
 
 Please see links on the left for more details until this page is updated.
 
-For Stata stuff, check out [the Stata Guide on Medium](https://medium.com/the-stata-guide)
 
 
 [Download latest CV here](http://asjadnaqvi.github.io/files/CV_Asjad_2021.pdf)
@@ -49,10 +48,13 @@ Lecturer, University College Lahore, Lahore, Pakistan (2001 -- 2004)
 Papers
 ------
 
+Coming soon
 
 
 Grants
 -----
+
+Distribution effects of climate shocks -- A macroeconomic perspective (DiOD), OeNB Jubilaeumsfond. (2021 -- 2023)
 
 Scaling-up green finance to achieve the climate and energy targets: An assessment of macro-financial opportunities and challenges for Austria (GREENFIN), Austrian Climate Research Program (ACRP). (2019 -- 2021)
 
