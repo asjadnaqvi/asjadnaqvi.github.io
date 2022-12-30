@@ -1,80 +1,34 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: DioD
+description: Distributional effects of climate shocks - A macroeconomic perspective
+img: assets/img/diod.jpg
 importance: 1
-category: work
+category: active
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Project partners**: International Institute for Applied Systems Analysis (IIASA), Boston University
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Funder**: ÖNB Jubiläumsfond
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+**Duration**: 2021-2023
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+**Role**: Work Package lead on developing a gap model for disaster-affected developing countries.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+**Description**
+
+Building resilience against disasters continues to pose challenges for developing countries. Historically, small island developing states (SIDS) bordering the Pacific Ocean have suffered from multiple hazards such as earthquakes, coastal erosions, floods, and cyclones. Population increase, along with uneven progress in socioeconomic development, and the ongoing environmental degradation, including climate change, have exaggerated their vulnerability to disasters. At the same time, the recent COVID-19 global pandemic illustrated that small, remote and less-diversified economies of SIDS are particularly prone to additional external shocks. Events such as COVID-19, on top of disasters triggered by natural hazards, pose additional challenges for resource-constrained economies to recover. Yet such interactions have rarely been evaluated in the existing literature. This study hence provides initial insights on the interaction of alternative DRM policies in presence of additional demand-side constraints, evaluated through the recently developed Binary constrained Disaster (BinD) model. Our results indicate that a targeted increase of government spending in times of crisis could be beneficial for the economic recovery for Fiji. However, short-term trade-offs emerge with respect to financing options. Debt-financed recovery allows faster and less painful recovery but requires fast and preferential access to foreign borrowing. Tax-financed recovery can compensate short-term foreign borrowing needs, but comes at the cost of more detrimental impacts on GDP and private sector consumption.  
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The BinD model is currently being implemented for two countries. First is Fiji in partnership with the The Ocean Policy Research Institute (OPRI) (Japan) with support from the Asian Development Bank (ADB). The second is Madagascasr, where supply versus demand-side post-drought recoveries are being explored.
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+
+
+**Papers**:
+
+Naqvi, A., Onaran, O., Dunz, N. (2022). Distributional impacts of disaster-risk financing in a strutural gap model: Application to Madagascar. *Model under construction with preliminary results.*
+
+
+Tanaka, H., Dunz, N., Yoshioka, N., Mochizuki, J. , Naqvi, A. (2021). Building Back Better in Small Island Developing States in the Pacific: Initial insights from the BinD Model on disaster risk management policy options in Fiji. *Draft in revision for an Asian Development Bank report.*

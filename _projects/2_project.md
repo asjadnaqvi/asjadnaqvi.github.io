@@ -1,80 +1,78 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: GreenFin
+description: Scaling-up green finance to achieve the climate and energy targets
+img: assets/img/greenfin.jpg
 importance: 2
-category: work
+category: active
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Project website**:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+<div class="row" style="margin: 2.0em;">
+	<a class="mr-auto" href="https://greenfin.at" target="_blank">
+	  <img height="70px" src="/assets/img/greenfin.png">
+	</a>
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+**Project partners**: Vienna University of Economics and Business (WU, Vienna), Austrian Institute for Economic Research (WIFO), International Institute for Applied Systems Analysis (IIASA), University of Bologna
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+
+
+**Funder**: <a href="https://www.klimafonds.gv.at/call/austrian-climate-research-program/" target="_blank">Austria Climate Research Program (ACRP)</a>
+
+
+<div class="row" style="margin: 2.0em;">
+	<a class="mr-auto" href="https://www.klimafonds.gv.at/" target="_blank">
+	  <img height="100px" src="/assets/img/klimafonds.png">
+	</a>
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+
+**Duration**: 2019-2022
+
+
+**Background**
+
+*Motivation*
+
+The Austrian government launched its climate and energy strategy in 2018 aimed at decarbonizing production and consumption and  creating opportunities for green growth. Recent research shows that Austria is facing the challenge of aligning its greenhouse gases (GHG) emissions to the EU2030 targets and a green investment gap has to be filled. There is an urgent need to understand the conditions for an effective scaling-up of green finance in the Austrian economy and financial market, while avoiding trade-offs for economic competitiveness and financial stability.
+
+*Objectives*
+
+The GreenFin project aims to assess the conditions for scaling up green finance in Austria while avoiding trade-offs on macroeconomic performance, and financial stability and inequality, against a scenario of inaction. Green finance paths characterized by different market instruments, mission-oriented green policies and governance structures will be assessed in terms of their ability to foster green investments, economic competitiveness, fiscal and financial stability, i.e., a green new deal.
+
+
+*Research plan*
+
+The GreenFin project is interdisciplinary with regard to the research questions, the methodologies and the expertise applied. It consists of five major research steps:
+
+* A comprehensive review of current sustainable finance initiatives, instruments and mechanisms with a broad geographical coverage.
+
+* Financial econometric models to test Austrian investors' reactions to the Paris Agreement, and the conditions for green financial portfolios to outperform brown portfolios.
+
+* Macro-financial assessment of the introduction of green fiscal policies, financial regulation and green bonds in Austria.
+
+* A North-South model to assess macroeconomic and financial effects of greening Austrian development finance on the beneficiary countries in the Western Balkans.
+
+* Toolkit to support Austrian policy and decision- makers in their ex-ante evaluation of initiatives for scaling up green finance.
+
+
+
+
+**My Role**: Project partner and Work Package lead. Develop a North-South Stock-flow consistent (SFC) model for Austria and the West Balkans to understand the role of climate policies and development banks in enabling a green transition.
+
+In this Work Package, we build a Stock-Flow Consistent model to explore the impact of climate policies on emission reductions on two highly inter-connected regions - Austria and the Western Balkans, that trade intermediate goods. We show that a unilateral climate tax in Austria, to achieve emission reduction targets, will result in carbon leakages to the Western Balkans. Austria can counter this by introducing a Border Adjustment Tariff (BATs) on brown imports. Yet, the bulk of the adjustment burden of the low-carbon transition is shifted to the Western Balkans, which lose market share with Austrian imports.  A combination of three climate policy instruments, including green investment de-risking in the Western Balkans, is preferable, as it allows to achieve emission targets in Austria without compromising on economic progress in other regions or inducing carbon leakage.
+
+**Papers**:
+
+Naqvi, A., Dunz, N., Monasterolo, I. (2021). Analyzing the spillover effects of climate policies in a stock-flow consistent model: The case of Austria and the Western Balkans. *Draft under preparation for submission.*
+
+
+
+**Follow the project on Twitter**:
+
+{% twitter https://twitter.com/Greenfinproject maxwidth=400 limit=3 %}
