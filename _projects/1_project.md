@@ -4,7 +4,7 @@ title: DioD
 description: Distributional effects of climate shocks - A macroeconomic perspective
 img: assets/img/diod.jpg
 importance: 1
-category: active
+category: project
 ---
 
 

@@ -3,7 +3,7 @@ layout: page
 title: SHELscape
 description: A multi-layer network agent-based framework
 img: assets/img/shelscape.jpg
-importance: 1
+importance: 12
 category: frameworks
 ---
 

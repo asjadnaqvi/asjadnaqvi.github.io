@@ -4,7 +4,7 @@ title: EnvINEQEU
 description: An empirical analysis of environmental inequality in the EU
 img: assets/img/envineqeu.jpg
 importance: 4
-category: active
+category: project
 ---
 
 

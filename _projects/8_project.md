@@ -3,8 +3,8 @@ layout: page
 title: BIOWAY
 description: Pathways towards a prosperous and just EU Bioeconomy
 img: assets/img/bioway.jpg
-importance: 2
-category: past
+importance: 8
+category: project
 ---
 
 

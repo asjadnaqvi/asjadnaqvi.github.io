@@ -3,8 +3,8 @@ layout: page
 title: MOBALANCE
 description: Shaping mobility through the principle of sufficiency in Austria
 img: assets/img/mobalance.jpg
-importance: 4
-category: past
+importance: 5
+category: project
 ---
 
 

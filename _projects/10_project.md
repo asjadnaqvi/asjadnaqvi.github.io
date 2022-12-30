@@ -3,8 +3,8 @@ layout: page
 title: CLEAR
 description: Centers for Learning on Evaluation and Results (The CLEAR Initiative) 
 img: assets/img/clear.jpg
-importance: 6
-category: past
+importance: 10
+category: project
 ---
 
 **Project website**: The CLEAR Initative

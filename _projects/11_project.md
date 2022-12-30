@@ -3,8 +3,8 @@ layout: page
 title: COVID-19 Europe
 description: COVID-19 European Regional Tracker
 img: assets/img/covid19.jpg
-importance: 5
-category: active
+importance: 11
+category: project
 ---
 
 **Project website**: <a href="https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker">https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker</a>

@@ -3,8 +3,8 @@ layout: page
 title: ComplexFin
 description: Sustainable growth and complex financial markets                     
 img: assets/img/complexfin.jpg
-importance: 3
-category: past
+importance: 6
+category: project
 ---
 
 **Project partners**: Vienna University of Economics and Business (WU, Vienna)

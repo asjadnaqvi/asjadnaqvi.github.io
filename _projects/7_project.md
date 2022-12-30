@@ -3,8 +3,8 @@ layout: page
 title: IDR
 description: Internal displacement risk and consequences
 img: assets/img/idr.jpg
-importance: 1
-category: past
+importance: 7
+category: project
 ---
 
 

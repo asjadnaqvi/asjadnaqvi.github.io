@@ -4,7 +4,7 @@ title: SIMSAEV
 description: Simulating the environmental and socio-economic effects of SAEVs
 img: assets/img/simsaev.jpg
 importance: 3
-category: active
+category: project
 ---
 
 

@@ -4,7 +4,7 @@ title: GreenFin
 description: Scaling-up green finance to achieve the climate and energy targets
 img: assets/img/greenfin.jpg
 importance: 2
-category: active
+category: project
 ---
 
 **Project website**:

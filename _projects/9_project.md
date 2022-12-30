@@ -3,8 +3,8 @@ layout: page
 title: MLI
 description: Microbe Literacy Health Initiative
 img: assets/img/mli.jpg
-importance: 5
-category: past
+importance: 9
+category: project
 ---
 
 **Website**: <a href="https://www.microbeliteracy.org/">https://www.microbeliteracy.org/</a>
