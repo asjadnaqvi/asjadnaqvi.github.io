@@ -4,7 +4,7 @@
   - name: Name
     value: Asjad Naqvi
   - name: Topics
-    value: climate change and their economic impacts, complexity, networks, North-South interactions, climate finance
+    value: climate-finance macro models, climate diagnostics and decision support tools, data workflow and data science
 
 
 - title: Education
@@ -12,7 +12,7 @@
   contents:
   - title: Habilitation in Economics 
     institution: Vienna University of Economics and Business (WU Wien), Vienna, Austria
-    year: Oct 2020
+    year: 2020
 
   - title: Ph.D. in Economics
     institution: New School for Social Research (NSSR), New York, USA
@@ -34,9 +34,9 @@
     institution: Austrian Institute for Economic Research (WIFO), Vienna, Austria
     year: 2022 -
 
-  - title: Consultant
+  - title: Coalition of Capacity for Climate Action (C3A)
     institution: The World Bank, Washington DC
-    year: 2022 -
+    year: 2023 -
 
   - title: Research Scholar, Advancing Systems Analysis (ASA)
     institution: International Institute for Applied Systems Analysis (IIASA), Laxenburg, Austria
@@ -209,22 +209,7 @@
   contents:
     - title: Stata packages
       items:
-        - <a href="https://github.com/asjadnaqvi/stata-treecluster">treecluster</a>
-        - <a href="https://github.com/asjadnaqvi/stata-sunburst">sunburst</a>
-        - <a href="https://github.com/asjadnaqvi/stata-sankey">sankey</a>
-        - <a href="https://github.com/asjadnaqvi/stata-alluvial">alluvial</a>
-        - <a href="https://github.com/asjadnaqvi/stata-circlebar">circlebar</a>
-        - <a href="https://github.com/asjadnaqvi/stata-spider">spider</a>
-        - <a href="https://github.com/asjadnaqvi/stata-treemap">treemap</a>
-        - <a href="https://github.com/asjadnaqvi/stata-circlepack">circlepack</a>
-        - <a href="https://github.com/asjadnaqvi/stata-arcplot">arcplot</a>
-        - <a href="https://github.com/asjadnaqvi/stata-marimekko">marimekko</a>
-        - <a href="https://github.com/asjadnaqvi/stata-bimap">bimap</a>
-        - <a href="https://github.com/asjadnaqvi/stata-joyplot">joyplot</a>
-        - <a href="https://github.com/asjadnaqvi/stata-streamplot">streamplot</a>
-        - <a href="https://github.com/asjadnaqvi/stata-delaunay">delaunay</a>
-        - <a href="https://github.com/asjadnaqvi/stata-clipgeo">clipgeo</a>
-        - <a href="https://github.com/asjadnaqvi/stata-schemepack">schemepack</a>
+        - <a href="https://github.com/asjadnaqvi/stata-treecluster">treecluster</a>, <a href="https://github.com/asjadnaqvi/stata-sunburst">sunburst</a>, <a href="https://github.com/asjadnaqvi/stata-sankey">sankey</a>, <a href="https://github.com/asjadnaqvi/stata-alluvial">alluvial</a>, <a href="https://github.com/asjadnaqvi/stata-circlebar">circlebar</a>, <a href="https://github.com/asjadnaqvi/stata-spider">spider</a>, <a href="https://github.com/asjadnaqvi/stata-treemap">treemap</a>, <a href="https://github.com/asjadnaqvi/stata-circlepack">circlepack</a>, <a href="https://github.com/asjadnaqvi/stata-arcplot">arcplot</a>, <a href="https://github.com/asjadnaqvi/stata-marimekko">marimekko</a>, <a href="https://github.com/asjadnaqvi/stata-bimap">bimap</a>, <a href="https://github.com/asjadnaqvi/stata-joyplot">joyplot</a>, <a href="https://github.com/asjadnaqvi/stata-streamplot">streamplot</a>, <a href="https://github.com/asjadnaqvi/stata-delaunay">delaunay</a>, <a href="https://github.com/asjadnaqvi/stata-clipgeo">clipgeo</a>, <a href="https://github.com/asjadnaqvi/stata-schemepack">schemepack</a>
         - <a href="https://github.com/friosavila/csdid_drdid">drdid</a>
     - title: Data science projects
       items:       
@@ -233,7 +218,6 @@
         - <a href="https://asjadnaqvi.github.io/DiD/">Notes on developments in the Diff-in-diff (DiD) literature</a>
         - <a href="https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker">COVID-19 European Regional Tracker</a>
         - <a href="https://github.com/asjadnaqvi/Austria-COVID-19-Tracker">COVID-19 Austrian Tracker</a>
-        - <a href="https://github.com/asjadnaqvi/Pakistan-national-budgets">Data scrape of Pakistan's national budgets</a>
 
 - title: Computer skills
   type: nested_list
