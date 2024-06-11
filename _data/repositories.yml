@@ -2,12 +2,26 @@ github_users:
   - asjadnaqvi
 
 github_repos:
-  - asjadnaqvi/stata-sankey
+  - asjadnaqvi/stata-alluvial
+  - asjadnaqvi/stata-arcplot
   - asjadnaqvi/stata-bimap
-  - asjadnaqvi/stata-treemap
+  - asjadnaqvi/stata-bumparea
+  - asjadnaqvi/stata-bumpline
   - asjadnaqvi/stata-circlebar
-  - asjadnaqvi/stata-polarbar
-  - asjadnaqvi/bumparea
-  - asjadnaqvi/bumpline
+  - asjadnaqvi/stata-circlepack
+  - asjadnaqvi/stata-clipgeo
+  - asjadnaqvi/stata-delaunay
+  - asjadnaqvi/stata-joyplot
+  - asjadnaqvi/stata-marimekko
+  - asjadnaqvi/stata-polarspike
+  - asjadnaqvi/stata-sankey
+  - asjadnaqvi/stata-schemepack
+  - asjadnaqvi/stata-spider
+  - asjadnaqvi/stata-splinefit
+  - asjadnaqvi/stata-streamplot
+  - asjadnaqvi/stata-sunburst
+  - asjadnaqvi/stata-treecluster
+  - asjadnaqvi/stata-treemap
+  - asjadnaqvi/stata-waffle
   - asjadnaqvi/DiD
   
