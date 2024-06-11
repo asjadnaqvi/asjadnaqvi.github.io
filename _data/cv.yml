@@ -93,8 +93,6 @@
       institution: The Independent Evaluation Group (IEG), World Bank (USA)
       year: 2012 - 2016      
       
-      
-      
 - title: Peer-reviewing activities
   type: time_table
   contents:
@@ -110,9 +108,10 @@
   contents:
     - title: Various lectures, workshops, and courses on Stata
       year: 2020 -
-    - title: SEEP Masters Program, Bachelors program
-      institution: WU Vienna, Vienna, Austria
-      year: 2014 - 2022
+    - title: University teaching
+      institution: Vienna University of Economics and Business
+      year: 2014 - 2024
+      location: Vienna, Austria
       items:
         - Zukunftsfähiges Wirtschaften II (ZuWi II)
         - Environment and the Economy II
@@ -122,18 +121,18 @@
     - title: Computer Language Workshop, New School for Social Research
       year: 2007 - 2010
       location: New York, USA
-      contents:
+      items:
         - Computer labs for PhD courses in Stata, Mathematica, NetLogo
-    - title: Economic Masters program, Lahore University of Management Sciences (LUMS)
+    - title: Lahore University of Management Sciences (LUMS)
       year: 2005 - 2006
       location: Lahore, Pakistan
-    contents:
+      items:
       - Development Economics
       - Econometrics I
     - title: University of London External Programme, University College Lahore
       year: 2001 - 2003
       location: Lahore, Pakistan
-      contents:
+      items:
         - Mathematics for Economists
         - Advanced Mathematics for Economists
         - Quantitative Methods
