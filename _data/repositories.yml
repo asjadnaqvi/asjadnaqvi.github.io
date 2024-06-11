@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - asjadnaqvi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - asjadnaqvi/stata-sankey
+  - asjadnaqvi/stata-bimap
+  - asjadnaqvi/stata-treemap
+  - asjadnaqvi/stata-circlebar
+  - asjadnaqvi/stata-polarbar
+  - asjadnaqvi/bumparea
+  - asjadnaqvi/bumpline
+  - asjadnaqvi/DiD
+  
