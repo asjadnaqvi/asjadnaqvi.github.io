@@ -30,13 +30,13 @@
 - title: Work experience
   type: time_table
   contents:
-  - title: Senior Economist, Environment, Agriculture and Energy
+  - title: Senior Economist
     institution: Austrian Institute for Economic Research (WIFO), Vienna, Austria
     year: 2022 -
 
-  - title: Coalition of Capacity for Climate Action (C3A)
+  - title: STC on various projects
     institution: The World Bank, Washington DC
-    year: 2023 -
+    year: 2022 -
 
   - title: Research Scholar, Advancing Systems Analysis (ASA)
     institution: International Institute for Applied Systems Analysis (IIASA), Laxenburg, Austria
@@ -62,6 +62,10 @@
 - title: Projects
   type: time_table
   contents:
+    - title: Supply Chain Intelligence Institute Austria (ASCII)
+      institution: Federal Ministry of Labor and Economy (Austria)
+      year: 2023 - 
+
     - title: Robust supply chains for agricultural goods and food in Austria (ROBVEK)
       institution: Federal Ministry of Agriculture, Regions and Tourism (BML, Austria)
       year: 2022 - 2023
@@ -77,6 +81,10 @@
     - title: Scaling-up green finance to achieve the climate and energy targets - An assessment of macro-financial opportunities and challenges for Austria (GREENFIN)
       institution: Austrian Climate Research Program (ACRP)
       year: 2019 - 2022
+      
+    - title: An empirical analysis of environmental inequality in the EU (EnvINEQEU)
+      institution: Austrian Science Fund (FWF)
+      year: 2019 - 2022      
       
     - title: Simulating the environmental and socio-economic effects of shared autonomous electric vehicles - the case of Vienna (SIMSAEV)
       institution: Austrian Climate Research Program (ACRP)
@@ -115,7 +123,7 @@
         - Nature Climate Change, Nature Human Behavior, Climate Policy, Climatic Change, Journal of Financial Stability, Journal of Cleaner Production, Ecological Economics, International Journal of Disaster Risk Reduction, Regional Environmental Change, Journal of Evolutionary Economics, Environmental Economics and Policy Studies, European Sociological Review
     - title: Donors
       items:
-        - Österreichische Nationalbanks Jubiläumsfonds (ÖNB, Austria), Bundesministerium für Bildung und Forschung (BMBF, Germany)
+        - Österreichische Nationalbanks Jubiläumsfonds (ÖNB, Austria), Bundesministerium für Bildung und Forschung (BMBF, Germany), Dutch Research Council (NWO)
 
 
 - title: Selected presentations
