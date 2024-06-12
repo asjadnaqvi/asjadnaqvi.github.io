@@ -41,7 +41,7 @@
       institution: International Institute for Applied Systems Analysis (IIASA)
       location: Laxenburg, Austria
       year: 2017 - 2023
-    - title: Assistant Professor, Institute for Ecological Eonomics
+    - title: Assistant Professor
       institution: Vienna University of Economics and Business (WU Wien)
       location: Vienna, Austria
       year: 2013 - 2023
@@ -53,7 +53,7 @@
       institution: Lahore University of Management Sciences (LUMS)
       location: Lahore, Pakistan
       year: 2004 - 2007
-    - title: Lecturer, 
+    - title: Lecturer
       institution: University College Lahore
       location: Lahore, Pakistan
       year: 2001 - 2003
@@ -63,8 +63,11 @@
   type: time_table
   contents:
     - title: Supply Chain Intelligence Institute Austria (ASCII)
-      institution: Federal Ministry of Labor and Economy (Austria)
+      institution: Federal Ministry of Labor and Economy (Austria), Province of Upper Austria
       year: 2023 - 
+    - title: Second Austrian Assessment Report on Climate Change (AAR2)
+      institution: Climate Change Center Austria (CCCA)
+      year: 2023 -   
     - title: Robust supply chains for agricultural goods and food in Austria (ROBVEK)
       institution: Federal Ministry of Agriculture, Regions and Tourism (BML, Austria)
       year: 2022 - 2023
@@ -89,9 +92,15 @@
     - title: Sustainable Growth in the Presence of Complex Financial Markets
       institution: ÖNB Jubiläumsfond
       year: 2017 - 2019
+    - title: Internal Displacement Risk (IDR)
+      institution: USAID-OFDA (USA) and IDMC (Switzerland)
+      year: 2017 - 2018
     - title: Pathways towards a Prosperous and Just EU Bioeconomy (BIOWAY)
       institution: ÖNB Jubiläumsfond
-      year: 20176 - 2018
+      year: 2016 - 2018
+    - title: Wealth, Welfare, and Work for Europe (www4europe)
+      institution: H2020
+      year: 2012 - 2016
     - title: Microbe Literacy Health Initiative (MLI)
       institution: UBS Optimus Foundation (Switzerland)
       year: 2013 - 2016
@@ -107,10 +116,10 @@
   contents:
     - title: Journals
       items:
-        - Nature Climate Change, Nature Human Behavior, Climate Policy, Climatic Change, Journal of Financial Stability, Journal of Cleaner Production, Ecological Economics, International Journal of Disaster Risk Reduction, Regional Environmental Change, Journal of Evolutionary Economics, Environmental Economics and Policy Studies, European Sociological Review
-    - title: Donors
+        - Nature Climate Change, Nature Human Behavior, Climate Policy, Climatic Change, Journal of Financial Stability, Journal of Cleaner Production, Ecological Economics, International Journal of Disaster Risk Reduction, Regional Environmental Change, Journal of Evolutionary Economics, Environmental Economics and Policy Studies, European Sociological Review, Journal of Economic Interaction and Coordination, Journal fo Computational Social Science, Stata Journal, Water Resource and Economics
+    - title: Grant evaluations
       items:
-        - Österreichische Nationalbanks Jubiläumsfonds (ÖNB, Austria), Bundesministerium für Bildung und Forschung (BMBF, Germany), Dutch Research Council (NWO)
+        - Österreichische Nationalbanks Jubiläumsfonds (ÖNB, Austria), Bundesministerium für Bildung und Forschung (BMBF, Germany), Dutch Research Council (NWO, Netherlands)
         
 - title: Teaching experience
   type: time_table
@@ -127,17 +136,17 @@
         - Environmental Change and Policy II
         - Growth, Well-being, and Development
         - Bridging course in Economics
-    - title: Computer Language Workshop, New School for Social Research
+    - title: New School for Social Research
       year: 2007 - 2010
       location: New York, USA
       items:
-        - Computer labs for PhD courses in Stata, Mathematica, NetLogo
+        - Computer language training programs for PhD students in Stata, Mathematica, NetLogo
     - title: Lahore University of Management Sciences (LUMS)
       year: 2005 - 2006
       location: Lahore, Pakistan
       items:
-      - Development Economics
-      - Econometrics I
+        - Development Economics
+        - Econometrics I
     - title: University of London External Programme, University College Lahore
       year: 2001 - 2003
       location: Lahore, Pakistan
@@ -177,5 +186,5 @@
   contents:
     - title:
       items:
-        - <b>Programming languages:</b> Stata, Mathematica, NetLogo, Gephi, LaTeX, Markdown
-        - <b>Basic knowledge:</b> R, MATLAB, Python, JavaScript, C++
+        - <b>Proficient in:</b> Stata, Mathematica, NetLogo, Gephi, LaTeX, Markdown
+        - <b>Basic to intermediate knowledge of:</b> R, MATLAB, Python, JavaScript, C++, Quarto
