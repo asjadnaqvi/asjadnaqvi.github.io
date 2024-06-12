@@ -10,7 +10,7 @@ github_repos:
   - asjadnaqvi/stata-circlebar
   - asjadnaqvi/stata-circlepack
   - asjadnaqvi/stata-clipgeo
-  - asjadnaqvi/stata-delaunay
+  - asjadnaqvi/stata-delaunay-voronoi
   - asjadnaqvi/stata-joyplot
   - asjadnaqvi/stata-marimekko
   - asjadnaqvi/stata-polarspike
