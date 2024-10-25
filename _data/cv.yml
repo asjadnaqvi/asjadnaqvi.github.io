@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Asjad Naqvi (he/him)
     - name: Languages
       value: English (fluent), Urdu (native), German (B2/C1)
@@ -13,11 +13,11 @@
       institution: Vienna University of Economics and Business (WU Wien)
       location: Vienna, Austria
       year: 2020
-    - title: Ph.D. in Economics
+    - title: Ph.D. Economics
       institution: New School for Social Research (NSSR)
       location: New York, USA
       year: 2007 - 2012
-    - title: M.Sc. in Economics
+    - title: M.Sc. Economics
       institution: Lahore University of Management Sciences (LUMS)
       location: Lahore, Pakistan
       year: 2003 - 2004
@@ -36,12 +36,12 @@
     - title: Consultant
       institution: The World Bank
       year: 2022 -
-      location: Washington DC, USA
+      location: Remote
     - title: Assistant Professor
       institution: Vienna University of Economics and Business (WU Wien)
       location: Vienna, Austria
       year: 2013 - 2024
-    - title: Research Scholar, Advancing Systems Analysis (ASA)
+    - title: Research Scholar
       institution: International Institute for Applied Systems Analysis (IIASA)
       location: Laxenburg, Austria
       year: 2017 - 2023
@@ -66,7 +66,7 @@
       year: 2023 - 
     - title: Second Austrian Assessment Report on Climate Change (AAR2)
       institution: Climate Change Center Austria (CCCA)
-      year: 2023 -   
+      year: 2023 - 2025  
     - title: Robust supply chains for agricultural goods and food in Austria (ROBVEK)
       institution: Federal Ministry of Agriculture, Regions and Tourism (BML, Austria)
       year: 2022 - 2023
@@ -75,7 +75,7 @@
       year: 2021 - 2023
     - title: Pakistan's Climate Change Development Report (CCDR)
       institution: The World Bank
-      year: 2022      
+      year: 2022 - 2022     
     - title: Scaling-up green finance to achieve the climate and energy targets - An assessment of macro-financial opportunities and challenges for Austria (GREENFIN)
       institution: Austrian Climate Research Program (ACRP)
       year: 2019 - 2022
@@ -124,7 +124,6 @@
   type: time_table
   contents:
     - title: Vienna University of Economics and Business
-      institution: Vienna University of Economics and Business
       year: 2014 - 2024
       location: Vienna, Austria
       items:
@@ -162,7 +161,6 @@
         - Best poster award at the European Society for Ecological Economics (ESEE), Budapest, Hungary (2017)
         - Eduard-März-Prize for the best paper at the AK Young Economists Conference, Vienna, Austria (2014)
         - IIASA Young Scientists Scholarshop Program (YSSP) (2012)
-        - Winner Stockholm Challenge (2006)
 
 - title: Data, code, and blogs
   type: nested_list
