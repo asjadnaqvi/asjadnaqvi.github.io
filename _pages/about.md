@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+    <p>Vienna, Austria</p>
+    
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Senior Economist at the [Austrian Institute for Economic Research (WIFO)](https://www.wifo.ac.at), specializing in innovative climate diagnostics and analytics aimed at supporting evidence-based decision-making. My career, spanning over two decades, has been shaped by diverse experiences at prominent institutions, including the [Vienna University of Economics and Business (WU)](https://www.wu.ac.at/), the [International Institute for Applied System Analysis (IIASA)](https://iiasa.ac.at/), the [Center for Economic Research in Pakistan (CERP)](https://www.cerp.org.pk), and the the [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/). I also work as a Consultant for the [World Bank](https://www.worldbank.org), contributing my expertise on climate economics and data analytics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research covers a wide range of topics, with a current focus on developing tools to analyze the intersection of climate change, macroeconomic developments, international finance, and trade.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold a Ph.D. in Economics from the [New School for Social Research (New York)](https://www.newschool.edu/nssr/) (2007-2012) and completed my Habilitation in Economics at WU in 2020.
+
