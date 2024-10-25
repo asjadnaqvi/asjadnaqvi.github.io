@@ -6,5 +6,6 @@ nav: true
 nav_order: 2
 cv_pdf: CV_Asjad_Oct2024.pdf
 description: 
-sidebar: 
+toc:
+  sidebar: left
 ---

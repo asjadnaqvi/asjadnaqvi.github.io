@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: For a complete list of working papers and other publications, please see the CV or Google Scholar.
+description: See the CV or Google Scholar for a complete list.
 nav: true
 nav_order: 3
 ---
