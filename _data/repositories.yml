@@ -1,14 +1,31 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - asjadnaqvi
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - asjadnaqvi/stata-alluvial
+  - asjadnaqvi/stata-arcplot
+  - asjadnaqvi/stata-bimap
+  - asjadnaqvi/stata-bumparea
+  - asjadnaqvi/stata-bumpline
+  - asjadnaqvi/stata-circlebar
+  - asjadnaqvi/stata-circlepack
+  - asjadnaqvi/stata-clipgeo
+  - asjadnaqvi/stata-delaunay-voronoi
+  - asjadnaqvi/stata-graphfunctions
+  - asjadnaqvi/stata-joyplot
+  - asjadnaqvi/stata-marimekko
+  - asjadnaqvi/stata-polarspike
+  - asjadnaqvi/stata-sankey
+  - asjadnaqvi/stata-schemepack
+  - asjadnaqvi/stata-spider
+  - asjadnaqvi/stata-splinefit
+  - asjadnaqvi/stata-streamplot
+  - asjadnaqvi/stata-sunburst
+  - asjadnaqvi/stata-ternary
+  - asjadnaqvi/stata-treecluster
+  - asjadnaqvi/stata-treemap
+  - asjadnaqvi/stata-trimap
+  - asjadnaqvi/stata-waffle
+  - asjadnaqvi/DiD
