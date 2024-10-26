@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Habilitation in Economics 
+    - title: Habilitation in Economics
       institution: Vienna University of Economics and Business (WU Wien)
       location: Vienna, Austria
       year: 2020
@@ -63,10 +63,10 @@
   contents:
     - title: Supply Chain Intelligence Institute Austria (ASCII)
       institution: Federal Ministry of Labor and Economy (Austria), Province of Upper Austria
-      year: 2023 - 
+      year: 2023 -
     - title: Second Austrian Assessment Report on Climate Change (AAR2)
       institution: Climate Change Center Austria (CCCA)
-      year: 2023 - 2025  
+      year: 2023 - 2025
     - title: Robust supply chains for agricultural goods and food in Austria (ROBVEK)
       institution: Federal Ministry of Agriculture, Regions and Tourism (BML, Austria)
       year: 2022 - 2023
@@ -75,13 +75,13 @@
       year: 2021 - 2023
     - title: Pakistan's Climate Change Development Report (CCDR)
       institution: The World Bank
-      year: 2022 - 2022     
+      year: 2022 - 2022
     - title: Scaling-up green finance to achieve the climate and energy targets - An assessment of macro-financial opportunities and challenges for Austria (GREENFIN)
       institution: Austrian Climate Research Program (ACRP)
       year: 2019 - 2022
     - title: An empirical analysis of environmental inequality in the EU (EnvINEQEU)
       institution: Austrian Science Fund (FWF)
-      year: 2019 - 2022      
+      year: 2019 - 2022
     - title: Simulating the environmental and socio-economic effects of shared autonomous electric vehicles - the case of Vienna (SIMSAEV)
       institution: Austrian Climate Research Program (ACRP)
       year: 2018 - 2022
@@ -108,7 +108,7 @@
       year: 2014 - 2019
     - title: Centers for Learning on Evaluation and Results (The CLEAR Initiative)
       institution: The Independent Evaluation Group (IEG), World Bank (USA)
-      year: 2012 - 2016  
+      year: 2012 - 2016
 
 - title: Peer-reviewing activities
   type: time_table
@@ -119,7 +119,7 @@
     - title: Grant evaluations
       items:
         - Österreichische Nationalbanks Jubiläumsfonds (ÖNB, Austria), Bundesministerium für Bildung und Forschung (BMBF, Germany), Dutch Research Council (NWO, Netherlands)
-        
+
 - title: Teaching experience
   type: time_table
   contents:
@@ -170,7 +170,7 @@
         - <a href="https://github.com/asjadnaqvi/stata-arcplot">arcplot</a>, <a href="https://github.com/asjadnaqvi/stata-alluvial">alluvial</a>, <a href="https://github.com/asjadnaqvi/stata-bimap">bimap</a>, <a href="https://github.com/asjadnaqvi/stata-bumparea">bumparea</a>, <a href="https://github.com/asjadnaqvi/stata-bumpline">bumpline</a>, <a href="https://github.com/asjadnaqvi/stata-circlebar">circlebar</a>, <a href="https://github.com/asjadnaqvi/stata-circlepack">circlepack</a>, <a href="https://github.com/asjadnaqvi/stata-clipgeo">clipgeo</a>, <a href="https://github.com/asjadnaqvi/stata-delaunay-voronoi">delaunay and vornoi</a>, <a href="https://github.com/asjadnaqvi/stata-graphfunctions">graphfunctions</a>, <a href="https://github.com/asjadnaqvi/stata-joyplot">joyplot</a>, <a href="https://github.com/asjadnaqvi/stata-marimekko">marimekko</a>, <a href="https://github.com/asjadnaqvi/stata-sankey">sankey</a>, <a href="https://github.com/asjadnaqvi/stata-spider">spider</a>, <a href="https://github.com/asjadnaqvi/stata-sunburst">sunburst</a>, <a href="https://github.com/asjadnaqvi/stata-polarspike">polarspike</a>, <a href="https://github.com/asjadnaqvi/stata-schemepack">schemepack</a>, <a href="https://github.com/asjadnaqvi/stata-splinefit">splinefit</a>, <a href="https://github.com/asjadnaqvi/stata-streamplot">streamplot</a>, <a href="https://github.com/asjadnaqvi/stata-ternary">ternary</a>, <a href="https://github.com/asjadnaqvi/stata-treecluster">treecluster</a>, <a href="https://github.com/asjadnaqvi/stata-treemap">treemap</a>, <a href="https://github.com/asjadnaqvi/stata-trimap">trimap</a>, <a href="https://github.com/asjadnaqvi/stata-waffle">waffle</a>
         - <a href="https://github.com/friosavila/csdid_drdid">drdid</a>
     - title: Data science projects
-      items:       
+      items:
         - <a href="https://medium.com/the-stata-guide">The Stata Guide on Medium</a>
         - <a href="https://medium.com/the-stata-gallery">The Stata Gallery on Medium</a>
         - <a href="https://asjadnaqvi.github.io/stata-portfolio/tags/portfolio/">The StataViz Portfolio</a>
