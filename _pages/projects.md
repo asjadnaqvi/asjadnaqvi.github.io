@@ -1,13 +1,16 @@
 ---
 layout: page
-title: projects
+title: Stata
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 5
+display_categories: 
 horizontal: false
 ---
+
+
+My Stata packages are listed below:
 
 <!-- pages/projects.md -->
 <div class="projects">
