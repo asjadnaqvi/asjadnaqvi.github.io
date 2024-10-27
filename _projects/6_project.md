@@ -1,8 +1,8 @@
 ---
 layout: page
-title: circlebar
+title:
 description: 
-img: assets/img/circlebar_banner.png
+img: assets/img/banners/circlebar_banner.png
 importance: 6
 category: stata
 redirect: https://github.com/asjadnaqvi/stata-circlebar

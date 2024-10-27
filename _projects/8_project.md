@@ -1,8 +1,8 @@
 ---
 layout: page
-title: delaunay
+title:
 description: 
-img: assets/img/delaunay_banner.png
+img: assets/img/banners/delaunay_banner.png
 importance: 8
 category: stata
 redirect: https://github.com/asjadnaqvi/stata-delaunay

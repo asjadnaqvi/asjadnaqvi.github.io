@@ -1,8 +1,8 @@
 ---
 layout: page
-title: arcplot
+title:
 description: 
-img: assets/img/arcplot_banner.png
+img: assets/img/banners/arcplot_banner.png
 importance: 2
 category: stata
 redirect: https://github.com/asjadnaqvi/stata-arcplot

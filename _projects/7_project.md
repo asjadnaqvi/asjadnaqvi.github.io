@@ -1,8 +1,8 @@
 ---
 layout: page
-title: clipgeo
+title:
 description: 
-img: assets/img/clipgeo_banner.png
+img: assets/img/banners/clipgeo_banner.png
 importance: 7
 category: stata
 redirect: https://github.com/asjadnaqvi/stata-clipgeo

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: alluvial
+title: 
 description: 
-img: assets/img/alluvial_banner.png
+img: assets/img/banners/alluvial_banner.png
 importance: 1
 category: stata
 redirect: https://github.com/asjadnaqvi/stata-alluvial

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: bumparea
+title:
 description: 
-img: assets/img/bumparea_banner.png
+img: assets/img/banners/bumparea_banner.png
 importance: 4
 category: stata
 redirect: https://github.com/asjadnaqvi/stata-bumparea
