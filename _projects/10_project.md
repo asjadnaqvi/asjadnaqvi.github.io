@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: marimekko
 description: 
 img: assets/img/banners/marimekko_banner.png
 importance: 10

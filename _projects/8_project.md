@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-description: 
+title: delaunay
+description: Delaunay, Voronoi, and Convex hulls
 img: assets/img/banners/delaunay_banner.png
 importance: 8
 category: stata

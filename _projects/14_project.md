@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: spider
 description: 
 img: assets/img/banners/spider_banner.png
 importance: 14

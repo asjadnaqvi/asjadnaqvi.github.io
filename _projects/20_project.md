@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: treemap
 description: 
 img: assets/img/banners/treemap_banner.png
 importance: 20

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-description: 
+title: schemepack
+description: Ready-to-use Stata schemes
 img: assets/img/banners/schemepack_banner.png
 importance: 13
 category: stata

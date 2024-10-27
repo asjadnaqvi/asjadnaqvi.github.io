@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: bumpline
 description: 
 img: assets/img/banners/bumpline_banner.png
 importance: 5

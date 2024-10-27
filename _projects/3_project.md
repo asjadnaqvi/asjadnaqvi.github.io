@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-description:
+title: bimap
+description: Bi-variate maps
 img: assets/img/banners/bimap_banner.png
 importance: 3
 category: stata

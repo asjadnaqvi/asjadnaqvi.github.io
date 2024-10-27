@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: sunburst
 description: 
 img: assets/img/banners/sunburst_banner.png
 importance: 17

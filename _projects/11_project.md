@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: polarspike
 description: 
 img: assets/img/banners/polarspike_banner.png
 importance: 11

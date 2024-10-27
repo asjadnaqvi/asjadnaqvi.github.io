@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: streamplot
 description: 
 img: assets/img/banners/streamplot_banner.png
 importance: 16

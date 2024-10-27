@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-description: 
+title: circlebar
+description: Also mirrored as polarbar.
 img: assets/img/banners/circlebar_banner.png
 importance: 6
 category: stata

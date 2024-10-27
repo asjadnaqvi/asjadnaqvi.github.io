@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: waffle
 description: 
 img: assets/img/banners/waffle_banner.png
 importance: 22

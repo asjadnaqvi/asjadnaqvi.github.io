@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: arcplot
 description: 
 img: assets/img/banners/arcplot_banner.png
 importance: 2

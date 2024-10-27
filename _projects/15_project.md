@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: splinefit
 description: 
 img: assets/img/banners/splinefit_banner.png
 importance: 15

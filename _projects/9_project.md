@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: joyplot
 description: A package for ridgeline plots
 img: assets/img/banners/joyplot_banner.png
 importance: 9
