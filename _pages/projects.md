@@ -26,7 +26,7 @@ I also regularly conduct workshops and seminars. Some of these are in the public
 I work directly with clients including multilateral organizations, multilateral donors, ministries, and universities to help them set up data workflows and piplines for complex data visualizations, including fully customized outputs based on the client's corporate identity. I had not initially planned to go down this route but significant demand has emerged in the last two years and the projects are too exciting to pass. The outputs of some these projects will eventually show up in the public domain. Even though I cannot say much about them, it is usually around these projects that the packages get a flurry of upgrades. This is also when you are very likely to see a burst of activity on my social media accounts. I you also want support, then please reach out by email.
 
 ## Portfolio and packages
-You can find my Stata Visualizations or **StataViz Portfolio** [website here](https://asjadnaqvi.github.io/stata-portfolio/tags/portfolio/).
+You can find my Stata Visualizations or **StataViz Portfolio** [website here](https://asjadnaqvi.github.io/stata-portfolio).
 
 The list of Stata packages that are currently online are listed below (each links to an external GitHub package repository):
 
