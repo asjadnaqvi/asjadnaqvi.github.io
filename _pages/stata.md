@@ -13,7 +13,7 @@ I have been using **Stata** since 2004. But it was not until the 2020 COVID-19 l
 
 The popularity of these guides exploded on social media. But a recurring feedback was that setting up hundreds of lines of code for one visualization was not practical for everyone. Users wanted pre-canned on-line commands with some customization options. This also made sense from an average Stata user perspective, who is more focused on data analysis rather than spend time on custom visualizations.
 
-In early 2021, I started converting the guides into Stata packages. As of updating this page, I have published over 20 programs. The figure below shows cumulative releases for each package by year:
+In early 2021, I started converting the guides into Stata packages. As of updating this page, I have published over 25 packages. The figure below shows cumulative releases for each package at the time of updating this page:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
