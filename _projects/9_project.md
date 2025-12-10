@@ -1,11 +1,11 @@
 ---
 layout: page
-title: joyplot
-description: A package for ridgeline plots
-img: assets/img/banners/joyplot_banner.png
-importance: 9
+title: geoflow
+description: Draw spatial arcs
+img: assets/img/banners/geoflow_banner.png
+importance: 8
 category: stata
-redirect: https://github.com/asjadnaqvi/stata-joyplot
+redirect: https://github.com/asjadnaqvi/stata-geoflow
 related_publications: false
 ---
 
