@@ -4,8 +4,8 @@ title: shelscape
 permalink: /shelscape/
 description:
 nav: false
-display_categories: 
 horizontal: false
+related_publications: true
 ---
 
 
@@ -23,7 +23,7 @@ At its core, SHELScape represents the economy as a set of interconnected locatio
 
 This multi-layer perspective builds directly on earlier theoretical and empirical research showing that shocks rarely remain confined to a single sector or region. For example:
 
-1. Our paper Assessing the cascading impacts of natural disasters in a multi-layer behavioral network framework (Scientific Reports, 2021) demonstrates how even localized agricultural losses can set off destabilizing cycles of price increases, labor shifts, and migration flows across a broader food system.
+1. Our paper Assessing the cascading impacts of natural disasters in a multi-layer behavioral network framework {% cite Naqvi2021b %} demonstrates how even localized agricultural losses can set off destabilizing cycles of price increases, labor shifts, and migration flows across a broader food system.
 
 2. Complementary work on breadbasket failures and compound climate risks shows how disruptions in one part of a trade network can transmit stress globally, depending on the structure and density of inter-regional linkages.
 
@@ -59,7 +59,7 @@ The model also introduces a novel risk metricâ€”the Vulnerability Rank (VRank)â€
 
 SHELScape is part of a broader research agenda aimed at understanding the complexity of climate-related risks:
 
-1. Earlier work (e.g., Naqvi & Rehm 2014; Naqvi 2017) used agent-based geo-simulations to analyze how natural disasters create distributional impacts in low-income economies.
+1. Earlier work {% cite NaqviRehm2014 %}{% cite Naqvi2017 %} used agent-based geo-simulations to analyze how natural disasters create distributional impacts in low-income economies.
 
 2. Studies on breadbasket failure risks combined copulas with multilayer ABMs to assess how correlated climate shocks can destabilize global food systems.
 
