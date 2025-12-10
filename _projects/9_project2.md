@@ -5,7 +5,7 @@ description:
 img: assets/img/banners/graphfunctions_banner.png
 importance: 8
 category: stata
-redirect: https://github.com/asjadnaqvi/stata-granphfunctions
+redirect: https://github.com/asjadnaqvi/stata-graphfunctions
 related_publications: false
 ---
 
