@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-nav: false
+nav: true
 nav_order: 4
 dropdown: true
 children:
