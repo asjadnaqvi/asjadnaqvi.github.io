@@ -1,8 +1,8 @@
 - title: General Information
   type: map
   contents:
-    - name: Name
-      value: Asjad Naqvi (he/him)
+    - name: Full name
+      value: Syed Ali Asjad Naqvi (he/him)
     - name: Languages
       value: English (fluent), Urdu (native), German (B2/C1)
 
@@ -173,10 +173,11 @@
   contents:
     - title: Stata packages
       items:
-        - <a href="https://github.com/asjadnaqvi/stata-arcplot">arcplot</a>, <a href="https://github.com/asjadnaqvi/stata-alluvial">alluvial</a>, <a href="https://github.com/asjadnaqvi/stata-bimap">bimap</a>, <a href="https://github.com/asjadnaqvi/stata-bumparea">bumparea</a>, <a href="https://github.com/asjadnaqvi/stata-bumpline">bumpline</a>, <a href="https://github.com/asjadnaqvi/stata-circlebar">circlebar</a>, <a href="https://github.com/asjadnaqvi/stata-circlepack">circlepack</a>, <a href="https://github.com/asjadnaqvi/stata-clipgeo">clipgeo</a>, <a href="https://github.com/asjadnaqvi/stata-delaunay-voronoi">delaunay and vornoi</a>, <a href="https://github.com/asjadnaqvi/stata-graphfunctions">graphfunctions</a>, <a href="https://github.com/asjadnaqvi/stata-joyplot">joyplot</a>, <a href="https://github.com/asjadnaqvi/stata-marimekko">marimekko</a>, <a href="https://github.com/asjadnaqvi/stata-sankey">sankey</a>, <a href="https://github.com/asjadnaqvi/stata-spider">spider</a>, <a href="https://github.com/asjadnaqvi/stata-sunburst">sunburst</a>, <a href="https://github.com/asjadnaqvi/stata-polarspike">polarspike</a>, <a href="https://github.com/asjadnaqvi/stata-schemepack">schemepack</a>, <a href="https://github.com/asjadnaqvi/stata-splinefit">splinefit</a>, <a href="https://github.com/asjadnaqvi/stata-streamplot">streamplot</a>, <a href="https://github.com/asjadnaqvi/stata-ternary">ternary</a>, <a href="https://github.com/asjadnaqvi/stata-treecluster">treecluster</a>, <a href="https://github.com/asjadnaqvi/stata-treemap">treemap</a>, <a href="https://github.com/asjadnaqvi/stata-trimap">trimap</a>, <a href="https://github.com/asjadnaqvi/stata-waffle">waffle</a>
+        - <a href="https://github.com/asjadnaqvi/stata-alluvial">alluvial</a>, <a href="https://github.com/asjadnaqvi/stata-arcplot">arcplot</a>, <a href="https://github.com/asjadnaqvi/stata-bimap">bimap</a>, <a href="https://github.com/asjadnaqvi/stata-bumparea">bumparea</a>, <a href="https://github.com/asjadnaqvi/stata-bumpline">bumpline</a>, <a href="https://github.com/asjadnaqvi/stata-circlebar">circlebar</a>, <a href="https://github.com/asjadnaqvi/stata-circlepack">circlepack</a>, <a href="https://github.com/asjadnaqvi/stata-clipgeo">clipgeo</a>, <a href="https://github.com/asjadnaqvi/stata-delaunay-voronoi">Delaunay and Vornoi</a>, <a href="https://github.com/asjadnaqvi/stata-geoboundary">geoboundary</a>, <a href="https://github.com/asjadnaqvi/stata-geoflow">geoflow</a>, <a href="https://github.com/asjadnaqvi/stata-graphfunctions">graphfunctions</a>,  <a href="https://github.com/asjadnaqvi/stata-marimekko">marimekko</a>, <a href="https://github.com/asjadnaqvi/stata-polarspike">polarspike</a>, <a href="https://github.com/asjadnaqvi/stata-ridgeline">ridgeline</a>, <a href="https://github.com/asjadnaqvi/stata-sankey">sankey</a>, <a href="https://github.com/asjadnaqvi/stata-schemepack">schemepack</a>, <a href="https://github.com/asjadnaqvi/stata-spider">spider</a>, <a href="https://github.com/asjadnaqvi/stata-splinefit">splinefit</a>, <a href="https://github.com/asjadnaqvi/stata-streamplot">streamplot</a>, <a href="https://github.com/asjadnaqvi/stata-sunburst">sunburst</a>, <a href="https://github.com/asjadnaqvi/stata-ternary">ternary</a>, <a href="https://github.com/asjadnaqvi/stata-treecluster">treecluster</a>, <a href="https://github.com/asjadnaqvi/stata-treemap">treemap</a>, <a href="https://github.com/asjadnaqvi/stata-trimap">trimap</a>, <a href="https://github.com/asjadnaqvi/stata-waffle">waffle</a>
         - <a href="https://github.com/friosavila/csdid_drdid">drdid</a>
-    - title: Data science projects
+    - title: Blogs and data science projects
       items:
+        - <a href="https://medium.com/macrocritical">MacroCritical on Medium</a>
         - <a href="https://medium.com/the-stata-guide">The Stata Guide on Medium</a>
         - <a href="https://medium.com/the-stata-gallery">The Stata Gallery on Medium</a>
         - <a href="https://asjadnaqvi.github.io/stata-portfolio">The StataViz Portfolio</a>
