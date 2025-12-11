@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The WAVE Model: Integrating Elasticities, Welfare and Value Added 
+title: The WAVE Model
 permalink: /wave/
-description:
+description: Integrating Elasticities, Welfare and Value Added 
 nav: false
 display_categories: 
 horizontal: false
