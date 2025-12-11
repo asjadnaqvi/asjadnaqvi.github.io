@@ -1,8 +1,8 @@
 ---
 layout: page
-title: SHELScape ABM
+title: SHELScape
 permalink: /shelscape/
-description:
+description: A spatially explicit, multi-layer agent-based model (ABM) to simulate how climate- and disaster-related shocks cascade
 nav: false
 horizontal: false
 related_publications: true
