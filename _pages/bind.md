@@ -6,13 +6,14 @@ description:
 nav: false
 display_categories: 
 horizontal: false
+related_publications: true
 ---
 
-Small Island Developing States (SIDS) face some of the world's most severe economic and climatic pressures. Rising temperatures, increasingly frequent extreme weather events, heavy dependence on imported capital goods, and limited fiscal and financial buffers all combine to make sustainable growth exceptionally challenging. The BinD model—a structural, demand-led macroeconomic framework—was developed to help understand how these pressures interact and how SIDS can navigate a future shaped by climate change. This blog post introduces the model, explains its core mechanisms, and highlights why it offers valuable guidance for policymaking in climate-vulnerable economies.
+Small Island Developing States (SIDS) face some of the world's most severe economic and climatic pressures. Rising temperatures, increasingly frequent extreme weather events, heavy dependence on imported capital goods, and limited fiscal and financial buffers all combine to make sustainable growth exceptionally challenging. The **BinD model** {% cite bind2023 %}, a structural, demand-led macroeconomic framework, was developed to help understand how these pressures interact and how SIDS can navigate a future shaped by climate change. This blog post introduces the model, explains its core mechanisms, and highlights why it offers valuable guidance for policymaking in climate-vulnerable economies.
 
 # Why Do SIDS Need a New Macroeconomic Framework?
 
-SIDS are uniquely exposed to climate change due to their economic structure and geographic positioning. Many rely on tourism, imported goods, and natural resources, while maintaining small tax bases and low savings rates. Extreme weather events, often causing damages equivalent to large shares of GDP, place immediate pressure on public budgets and increase external borrowing needs. Traditional macroeconomic models tend to assume diversified economies, flexible financial systems, and smooth adjustment processes—assumptions that do not reflect the realities of small island states.
+SIDS are uniquely exposed to climate change due to their economic structure and geographic positioning. Many rely on tourism, imported goods, and natural resources, while maintaining small tax bases and low savings rates. Extreme weather events, often causing damages equivalent to large shares of GDP, place immediate pressure on public budgets and increase external borrowing needs. Traditional macroeconomic models tend to not consider the role of financial systems, role of capital import dependence, usually assuming friction-less adjustments that do not reflect the realities of small island states.
 
 The BinD model addresses these gaps by extending the classic three-gap framework of private savings, public finances, and external balances. Instead of treating these as static constraints, the BinD approach embeds them in a dynamic, climate-sensitive macroeconomic system capable of capturing how climate shocks move through investment decisions, debt accumulation, consumption, and income distribution. This structure makes the model especially useful for analyzing how SIDS may evolve economically over long time horizons under varying climate conditions.
 
