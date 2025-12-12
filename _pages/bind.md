@@ -9,33 +9,35 @@ horizontal: false
 related_publications: true
 ---
 
-Small Island Developing States (SIDS) face some of the world's most severe economic and climatic pressures. Rising temperatures, increasingly frequent extreme weather events, heavy dependence on imported capital goods, and limited fiscal and financial buffers all combine to make sustainable growth exceptionally challenging. The **BinD model** {% cite bind2023 %}, a structural, demand-led macroeconomic framework, was developed to help understand how these pressures interact and how SIDS can navigate a future shaped by climate change. This blog post introduces the model, explains its core mechanisms, and highlights why it offers valuable guidance for policymaking in climate-vulnerable economies.
+*(NOTE: this page is still in the process of being updated)*
 
-# Why Do SIDS Need a New Macroeconomic Framework?
+Small Island Developing States (SIDS) face some of the world's most severe economic and climatic pressures. Rising temperatures, increasingly frequent extreme weather events, heavy dependence on imported capital goods, and limited fiscal and financial buffers all combine to make sustainable growth exceptionally challenging. The **BinD model** {% cite bind2023; ADB2022 %}, a structural, demand-led macroeconomic framework, was developed to help understand how these pressures interact and how SIDS can navigate a future shaped by climate change. This blog post introduces the model, explains its core mechanisms, and highlights why it offers valuable guidance for policymaking in climate-vulnerable economies.
+
+## Why SIDS need a new macroeconomic framework?
 
 SIDS are uniquely exposed to climate change due to their economic structure and geographic positioning. Many rely on tourism, imported goods, and natural resources, while maintaining small tax bases and low savings rates. Extreme weather events, often causing damages equivalent to large shares of GDP, place immediate pressure on public budgets and increase external borrowing needs. Traditional macroeconomic models tend to not consider the role of financial systems, role of capital import dependence, usually assuming friction-less adjustments that do not reflect the realities of small island states.
 
 The BinD model addresses these gaps by extending the classic three-gap framework of private savings, public finances, and external balances. Instead of treating these as static constraints, the BinD approach embeds them in a dynamic, climate-sensitive macroeconomic system capable of capturing how climate shocks move through investment decisions, debt accumulation, consumption, and income distribution. This structure makes the model especially useful for analyzing how SIDS may evolve economically over long time horizons under varying climate conditions.
 
-# Core Architecture: Demand, Capacity, and Climate Pressures
+## Core framework
 
-At the heart of the **BinD model** {% cite bind2023 %} lies the interaction between aggregate demand, capital accumulation, and climate-induced supply constraints. Under normal circumstances, output expands in response to demand, which is driven by household consumption, private investment, government spending, and export activity. However, the productive capacity of SIDS is often fragile, as much of their capital stock must be imported and maintained at significant cost.
+At the heart of theBinD model lies the interaction between aggregate demand, capital accumulation, and climate-induced supply constraints. Under normal circumstances, output expands in response to demand, which is driven by household consumption, private investment, government spending, and export activity. However, the productive capacity of SIDS is often fragile, as much of their capital stock must be imported and maintained at significant cost.
 
 As climate change accelerates capital depreciation and reduces labor productivity, investment needs rise while domestic savings fall. Extreme weather destroys infrastructure and machinery, while rising temperatures limit the productivity of outdoor workers. Reconstruction and maintenance efforts increase import requirements, intensifying pressure on the external balance. These processes can cause economies to reach their capacity limits even when demand remains strong, demonstrating a core insight of the BinD model: demand-led growth cannot be sustained when climate damages and financial scarcity restrict capital formation.
 
-# A Fully Integrated System of Economic Actors
+## A fully integrated system of economic actors
 
 The BinD model incorporates interactions among firms, worker households, capitalist households, government, and the rest of the world through a consistent Social Accounting Matrix and balance sheet structure. Firms produce goods for domestic markets and export, relying on both domestic and imported capital goods. Worker households devote all disposable income to consumption, making them sensitive to wage and employment fluctuations. Capitalist households receive profits, consume part of their incomes, and save the remainder. Governments collect taxes, engage in consumption and investment, and service external debt. The foreign sector supplies exports, imported capital goods, and external finance. By tracking evolving stocks of domestic capital, imported capital, public capital, and external debt, the model captures the path-dependent nature of macroeconomic dynamics in SIDS, where a single climate event can influence economic outcomes for many years.
 
-# Climate Damages as Structural Macroeconomic Constraints
+## Climate damages as structural macroeconomic constraints
 
 A major innovation of the BinD model is the explicit treatment of climate damages as structural constraints rather than temporary shocks. Climate change affects economies through higher depreciation rates that reduce the effective capital stock, lower productivity that weakens wage growth and household income, and increased import needs that widen external financing gaps. Over time, these interconnected pressures can push economies into low-growth, high-debt trajectories. This risk is particularly pronounced under high warming scenarios, where repeated climate impacts may overwhelm a country’s ability to rebuild capital stock quickly enough to sustain economic activity.
 
-# Switching Between Economic Regimes
+## Switching between economic regimes
 
 The BinD model shows that SIDS can shift between two macroeconomic regimes. In a demand-driven regime, output expands in response to increasing demand as long as sufficient productive capacity exists. However, when investment fails to keep pace due to climate damages, insufficient savings, or restricted external financing, the economy enters a capacity-constrained regime. In this state, output can no longer adjust to demand, and consumption, imports, and public spending decline. This transition provides insight into why many island economies struggle to maintain stable growth despite ongoing development needs and repeated reconstruction efforts.
 
-# Why the BinD Model Matters for Policy
+## Why the BinD model matters for policy
 
 The BinD model offers policymakers and researchers a comprehensive tool for evaluating climate-resilient development strategies. It helps clarify how climate shocks interact with financial constraints, which warming trajectories allow for sustainable growth, and how tax-based, debt-based, or grant-based financing strategies affect long-run outcomes. The model also underscores the critical role of predictable, affordable international climate finance, as domestic policies alone are insufficient to compensate for structural vulnerabilities. Ultimately, the BinD model demonstrates that both national strategies and global support are necessary for SIDS to build resilience and achieve sustainable development.
 
