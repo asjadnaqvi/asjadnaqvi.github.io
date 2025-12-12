@@ -3,7 +3,7 @@ layout: page
 title: The BinD Model
 permalink: /bind/
 description: A New Framework for Climate-Resilient Development in Small Island States
-nav: false
+nav: true
 display_categories: 
 horizontal: false
 related_publications: true
@@ -11,7 +11,8 @@ related_publications: true
 
 *(NOTE: this page is still in the process of being updated)*
 
-Small Island Developing States (SIDS) face some of the world's most severe economic and climatic pressures. Rising temperatures, increasingly frequent extreme weather events, heavy dependence on imported capital goods, and limited fiscal and financial buffers all combine to make sustainable growth exceptionally challenging. The **BinD model** {% cite bind2023; ADB2022 %}, a structural, demand-led macroeconomic framework, was developed to help understand how these pressures interact and how SIDS can navigate a future shaped by climate change. This blog post introduces the model, explains its core mechanisms, and highlights why it offers valuable guidance for policymaking in climate-vulnerable economies.
+Small Island Developing States (SIDS) face some of the world's most severe economic and climatic pressures. Rising temperatures, increasingly frequent extreme weather events, heavy dependence on imported capital goods, and limited fiscal and financial buffers all combine to make sustainable growth exceptionally challenging. The **BinD model** {% cite bind2023 %}, a structural, demand-led macroeconomic framework, was developed to help understand how these pressures interact and how SIDS can navigate a future shaped by climate change. This blog post introduces the model, explains its core mechanisms, and highlights why it offers valuable guidance for policymaking in climate-vulnerable economies. An earlier version of the model was applied to Fiji for an ADB report {% cite ADB2022 %}
+
 
 ## Why SIDS need a new macroeconomic framework?
 

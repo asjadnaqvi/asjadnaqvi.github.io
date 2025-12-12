@@ -3,7 +3,7 @@ layout: page
 title: Welfare and Value-Added Elasticities (WAVE)
 permalink: /wave/
 description: 
-nav: false
+nav: true
 display_categories: 
 horizontal: false
 related_publications: true
