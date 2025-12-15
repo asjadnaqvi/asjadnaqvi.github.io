@@ -13,10 +13,13 @@ children:
   - title: divider
   - title: SHELScape
     permalink: /shelscape/
+  - title: divider
   - title: Decoupling
     permalink: /decoupling/  
+  - title: divider
   - title: Mobility Vienna
     permalink: /matsim/  
+  - title: divider
   - title: COVID-19
     permalink: /covid19/  		
 ---

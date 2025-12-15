@@ -90,13 +90,17 @@ The indirect effects, however, tell a very different story. For many economies, 
 The results for the United States and China further illustrate the systemic nature of the shock. The United States, the tariff-imposing country, shows approximately –3.17% net losses. In the figure, this outcome is driven overwhelmingly by the indirect bar, highlighting how tariff-induced price increases feed back into domestic production networks, raising costs for intermediate goods, compressing real demand, and reducing value added across service and infrastructure sectors. Meanwhile, China (CHN), a country that faced high tariffs, exhibits only a mild net effect (around –0.47%) with the figure showing a relatively small indirect response compared to other countries. China's large domestic market and diversified supply structure dampen the propagation of the tariff shock, absorbing much of the initial disruption.
 
 
-# The way forward  
+## The way forward  
 
-The WAVE model {% cite naqvi2025a; naqvi2025b %} provides a foundation for a broad research agenda. 
+The WAVE model provides the foundations for a broader research agenda. 
 
-The model can be used for a quick analysis on short- to medium-run disruptions and how they cascade across the global value chains. The results also be used as inputs to calibrate behavioral responses in macroeconomic models for an in-depth analysis. 
+The model can be used for a quick analysis of short- to medium-run income and/or price disruptions and how they cascade across countries and sectors. The results also be used as inputs to calibrate behavioral responses in macroeconomic models for an in-depth or a long-term analysis. 
 
-The model can be easily extended to incorporate the evaluation of other indicators. Adding employment coefficients would support labour-market impacts and indirect losses from demand-side multiplers. Linking environmental satellite accounts would allow analysts to examine emissions, resource use, and sustainability transitions.
+The model can be easily extended to incorporate the evaluation of other indicators. Adding employment rates by sector can support with the analysis of labor-market impacts, and indirect losses from demand-side multiplers. Linking environmental satellite accounts can allow for the analysis of emissions, resource use, and sustainability transitions.
 
-As global disruptions become more frequent and complex, WAVE offers a scalable, empirically-grounded framework for understanding how shocks propagate, who is most affected, and where resilience can be strengthened within global supply chains.
+As global disruptions become more frequent and complex, WAVE offers a scalable, empirically-grounded framework for understanding how shocks are likely to propagate, who is most affected, and where resilience can be strengthened across global supply chains.
 
+
+## Funding and support
+
+The development of the WAVE model is part of, and funded by, the [Austria Supply Chain Intelligence Institute (ASCII)](https://ascii.ac.at/). ASCII is a multi-year joint collaboration between three institutes in Austria; the [Complexity Science Hub (CSH)](https://csh.ac.at/), [Austrian Institute of Economic Research (WIFO)](https://www.wifo.ac.at/), and [Logistikum FH Upper Austria](https://www.logistikum.at/).
