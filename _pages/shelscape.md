@@ -26,14 +26,17 @@ Agent-based models (ABMs) are particularly well suited because they:
 - and link **micro-level behavior** to **meso- and macro-level outcomes**.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/transition.png" title="Transitions, thresholds, and feedbacks can result in non-linear dynamics" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+   Transitions, thresholds, and feedbacks can result in non-linear dynamics {% cite Naqvi2021b %}.
 </div>
 
 
 
-## A Multi-Layer View of the Economy
+## Viewing the economy through a multi-layer lens
 
 At its core, SHELScape represents the economy as a system of interconnected locations embedded in **multiple interacting network layers**:
 
@@ -47,19 +50,19 @@ These layers interact continuously. Production decisions affect wages and prices
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/layers.png" title="Stylized multi-layer behavioral network framework (production–trade and household–migration layers)" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+   This conceptualization is formalized in {% cite Naqvi2021b %}, which shows how localized shocks can trigger system-wide dynamics through network interactions.
 </div>
 
 
 
-This conceptualization is formalized in {% cite Naqvi2021b %}, which shows how localized shocks can trigger system-wide dynamics through network interactions.
+## How agents make decisions
 
-
-## How Agents Make Decisions
-
-SHELScape simulates two types of agents: **firms** and **households**.
+SHELScape simulates two types of agents:
 
 - **Firms** choose where to sell goods based on relative prices, profitability, and access costs. They can redirect supply across space as markets evolve.
 - **Households** allocate income between essential and non-essential goods, supply labor locally, and migrate if they can no longer meet minimum consumption thresholds.
@@ -68,19 +71,19 @@ Decisions are **probabilistic rather than optimizing**, reflecting bounded ratio
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/shelscape_framework.png" title="Stylized multi-layer behavioral network framework (production–trade and household–migration layers)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
 
-## Thresholds and Tipping Dynamics
+## Thresholds and tipping dynamics
 
 A central feature of SHELScape is the explicit modeling of **economic thresholds** that can trigger regime changes:
 
 - **Household thresholds:**  
-  When real income falls below the level required to purchase a minimum consumption bundle, households shift behavior—first reallocating consumption, then migrating.
+  When real income falls below the level required to purchase a minimum consumption bundle, households shift behavior, first reallocating consumption, running down savings, and then migrating.
 
 - **Firm thresholds:**  
   Firms stop supplying markets where prices fall below production costs and reallocate output to more profitable locations.
@@ -89,16 +92,18 @@ Crossing these thresholds can generate **non-linear transitions**, including cas
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/shelscape_thresholds.png" title="Thresholds in household consumption and firm production decisions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+	These mechanisms play a key role in work on compound shocks and breadbasket failures {% cite Naqvi2020 %}, where correlated climate risks push systems beyond critical tipping points.
+</div>
 
 
-These mechanisms play a key role in work on compound shocks and breadbasket failures {% cite Naqvi2020 %}, where correlated climate risks push systems beyond critical tipping points.
 
 
-## Tracking Cascading Impacts
+## Tracking cascading impacts
 
 Because SHELScape integrates multiple layers and feedback loops, it captures how a localized shock—such as a food production loss—can simultaneously:
 1. raise local prices,
@@ -111,19 +116,19 @@ Rather than converging smoothly to a new equilibrium, the system often exhibits 
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cyclical_vulnerability.png" title="Cyclical vulnerability and post-shock transition dynamics" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
 
-## Quantifying Multi-Layer Vulnerability: VRank
+## Quantifying multi-layer vulnerability
 
 To synthesize these complex dynamics, SHELScape introduces **Vulnerability Rank (VRank)**, a multi-layer risk indicator inspired by systemic risk measures in financial networks.
 
 VRank captures:
-- a location’s own purchasing power relative to minimum consumption needs,
+- a location's own purchasing power relative to minimum consumption needs,
 - its dependence on neighboring locations through trade and migration,
 - and the propagation of vulnerability across the network.
 
@@ -131,13 +136,13 @@ This allows the identification of **vulnerability hotspots**, even in regions no
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/vrank_evolution.png" title="Spatial-temporal evolution of vulnerability (VRank)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
-## Applications and Empirical Case Studies
+## Applications and empirical case studies
 
 SHELScape has evolved through multiple applied studies:
 
@@ -148,7 +153,7 @@ SHELScape has evolved through multiple applied studies:
 
 
 
-## Beyond Disaster Impacts: Extensions
+## Going beyond disaster impacts
 
 The SHELScape framework naturally extends to:
 - cascading value-chain risks,
@@ -160,7 +165,7 @@ The SHELScape framework naturally extends to:
 These extensions allow the model to connect disaster risk analysis with broader macro-financial and development questions.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/MD_networks.png" title="Generic approach to multi-layer networks" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -169,7 +174,7 @@ These extensions allow the model to connect disaster risk analysis with broader 
 
 
 
-## Over a Decade of Development (2008–2021)
+## Over a decade of development (2008–2021)
 
 SHELscape started as my dissertation project during the joint UMASS-Amherst and New School conference in 2008. At that point, ABM were in their infancy and climate impacts on economic systems was not a major topic of research. There were also computational limitations and access to software, that would allow the development of multi-agent systems with complex interactions, was limited. If one was doing Markov chains-type analysis, then MATLAB was the way to go (R was too new back then). Mathematica was there, but despite being a super powerful software, it was (or is) not the easiest program to use. My supervisor [Duncan Foley](https://www.newschool.edu/nssr/faculty/duncan-foley/) did use it extensively for his own models. So my decision was to go with [NetLogo](https://www.netlogo.org/), an open-source project from Northwestern University's [Center for Connected Learning and Computer-Based Modeling (CCL)](https://ccl.northwestern.edu/). NetLogo is based on Logo, a program that has turtles, and we can give turtles instructions to move in an intuitive way, e.g. `ask turtle 0 [fd 1]`, which would make Turle 0 move forward one step on the screen. This visual element made NetLogo appealing and relatively easier to use but there were some challenges along the way. On a side note, similar Logo-type logic also exists in [Scratch](https://scratch.mit.edu/), an open-source software from MIT taught to kids in school these days (and also a fun language to explore).
 
