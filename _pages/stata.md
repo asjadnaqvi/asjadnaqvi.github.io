@@ -1,8 +1,8 @@
 ---
 layout: page
-title: stata
+title: Stata
 permalink: /stata/
-description:
+description: Advanced Stata visualizations, reproducible workflows, and training for applied research and policy analysis.
 nav: true
 nav_order: 5
 display_categories: 
