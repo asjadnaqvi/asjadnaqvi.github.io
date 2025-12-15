@@ -3,7 +3,7 @@ layout: page
 title: The BinD Model
 permalink: /bind/
 description: A New Framework for Climate-Resilient Development in Small Island States
-nav: true
+nav: false
 display_categories: 
 horizontal: false
 related_publications: true
