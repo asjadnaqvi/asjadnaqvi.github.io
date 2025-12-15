@@ -26,7 +26,7 @@ Agent-based models (ABMs) are particularly well suited because they:
 - and link **micro-level behavior** to **meso- and macro-level outcomes**.
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/transition.png" title="Transitions, thresholds, and feedbacks can result in non-linear dynamics" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -50,7 +50,7 @@ These layers interact continuously. Production decisions affect wages and prices
 
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/layers.png" title="Stylized multi-layer behavioral network framework (production–trade and household–migration layers)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -71,7 +71,7 @@ Decisions are **probabilistic rather than optimizing**, reflecting bounded ratio
 
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/shelscape_framework.png" title="Stylized multi-layer behavioral network framework (production–trade and household–migration layers)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -92,7 +92,7 @@ Crossing these thresholds can generate **non-linear transitions**, including cas
 
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/shelscape_thresholds.png" title="Thresholds in household consumption and firm production decisions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -116,7 +116,7 @@ Rather than converging smoothly to a new equilibrium, the system often exhibits 
 
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cyclical_vulnerability.png" title="Cyclical vulnerability and post-shock transition dynamics" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -136,7 +136,7 @@ This allows the identification of **vulnerability hotspots**, even in regions no
 
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/vrank_evolution.png" title="Spatial-temporal evolution of vulnerability (VRank)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -165,7 +165,7 @@ The SHELScape framework naturally extends to:
 These extensions allow the model to connect disaster risk analysis with broader macro-financial and development questions.
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/MD_networks.png" title="Generic approach to multi-layer networks" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
