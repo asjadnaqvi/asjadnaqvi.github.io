@@ -9,11 +9,14 @@ display_categories:
 horizontal: false
 ---
 
-I have been using **Stata** since 2004. But it was not until the 2020 COVID-19 lockdowns in Vienna that I started thinking more seriously about doing different types of visualizations to track the spread of the virus. In August 2020 I launched the [Stata Guide on Medium](https://medium.com/the-stata-guide) to document the scripts for generating different types of visualizations. The aim of these guides was to consolidate the ever increasing code snippets and document the processes involved in creating the visualizations. The aim was to not only help myself but also allow the community to replicate them. 
+I have been using **Stata** since 2004. However, it was only during the COVID-19 lockdowns in Vienna in 2020 that I began to seriously explore advanced data visualization as a tool for tracking and communicating complex topics such as the spread of the virus. In August 2020, I launched the [Stata Guide on Medium](https://medium.com/the-stata-guide) to systematically document scripts, workflows, and design principles for producing a wide range of visualizations in Stata. The objective was twofold: 
+- to consolidate an expanding collection of code snippets into coherent guides, and 
+- to transparently document the full process behind each visualization so that others could easily replicate and adapt them.
 
-The popularity of these guides exploded on social media. But a recurring feedback was that setting up hundreds of lines of code for one visualization was not practical for everyone. Users wanted pre-canned on-line commands with some customization options. This also made sense from an average Stata user perspective, who is more focused on data analysis rather than spend time on custom visualizations.
+The guides gained substantial traction on social media and within the Stata community. At the same time, a constant feedback I was getting was that while the guides were useful for learning, setting up several hundred lines of code for a single visualization was not practical for many users. What users wanted were streamlined, well-documented packages that could be run directly from the command line, with sensible defaults and customization options.
 
-In early 2021, I started converting the guides into Stata packages. As of updating this page, I have published over 25 packages. The figure below shows cumulative releases for each package at the time of updating this page:
+In early 2021, I therefore began converting the guides into fully documented Stata packages. As of the latest update to this page, I have released more than 25 packages. The figure below shows the cumulative release history across packages on GitHub:
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,15 +25,25 @@ In early 2021, I started converting the guides into Stata packages. As of updati
 </div>
 
 
-Coding these was another intense learning process since I have never done this before. Even though programming took me away from writing the guides, the newly-gained Stata and Mata experience, and the engagements with various international organizations, researchers, policy people, and the broad community was (and is) highly rewarding. 
+Developing these packages was itself an intensive learning process, as development, Mata programming, and maintenance were new to me. While this work temporarily shifted my focus away from writing long-form guides, it substantially deepened my understanding of Stata's programming structure and led to extensive interaction with researchers, policy analysts, international organizations, and practitioners. These exchanges have been, and continue to be, one of the most rewarding aspects of the work.
 
-Releasing packages in the public domain is like publishing a paper, with one key difference; a published paper usually stays as it online. In contrast, packages undergo continuous ex-post *peer review*, and are subjected to rigorous testing, as users (including myself) find bugs and/or request new features. Some features, such as support for weights and label wrapping, have also been added across the board. And with 20+ packages, this is a significant time sink if one also take into account updating help files, the GitHub pages, writing release notes, checking and adding sample figures, and so on. Currently, the most-used packages are in a very solid place. The most popular ones are also fairly robust, offering a wide range of features that cater to a diverse set of user requirements. Some visualizations from these packages have also started appearing in articles and blogs (although packages citations are still missing. Hint hint!).
+
+Releasing software packages into the public domain is, in many ways, similar to publishing an academic paper, but with one important difference. While papers are largely static once published, packages are subject to continuous *ex-post* peer review. Users identify bugs, request features, and stress-test commands in ways that are difficult to anticipate *ex ante*. Over time, this has led to systematic improvements across packages. For example, the addition of support for weights, label wrapping, and more robust defaults. With more than 25 packages, this ongoing maintenance represents a substantial time investment, including updating help files, maintaining GitHub pages, writing release notes, and producing example figures. Currently, the most widely-used packages are in a very solid place, offering a broad set of features that accommodates diverse use cases. Several of the visualizations generated by these packages have also appeared in articles and blogs, although formal package citations remain rare (hint hint :)).
+
  
-I do plan to eventually return to blogging with the aim of writing more about the knowledge accumulated in the last years. Even in its current dormant state, the [Stata Guide on Medium](https://medium.com/the-stata-guide) has over 60 articles where most of them are still useful for learning about coding visualizations. Some of the fundamental guides are also no longer paywalled. I have also set up the [Stata Gallery on Medium](https://medium.com/the-stata-gallery) where the community continues to contribute their own amazing guides. So please also check it out and submit your own articles if you have something in mind.
+I do plan to actively return to blogging, with a focus on distilling and reflecting on the knowledge accumulated over the past few years. Even in its current, relatively dormant state, the [Stata Guide on Medium](https://medium.com/the-stata-guide) hosts more than 60 articles, many of which remain relevant for learning visualization techniques and general Stata programming. In addition, I maintain the [Stata Gallery on Medium](https://medium.com/the-stata-gallery), a community-driven space where users contribute their own visualization guides. So please contribute!
+
 
 ## Workshops and presentations
 
-I regularly present my work in various conferences. For example, my [Advanced Visualizations with Stata]((https://github.com/asjadnaqvi/The-Stata-Guide/tree/master/presentations)) series has introduced tons of new material and visualization types. I also regularly conduct workshops and seminars. Some of these are also open to public such as the **Masterclass in Stata Maps** course that I conduct annually in collaboration with [Stata UK](https://www.stata-uk.com/). I have also conducted workshops directly for various institutions and universities on topics such as workflow management, Stata frames, advanced visualizations and maps. If you would also like to organize one then please reach out! 
+I regularly present my Stata-related work at conferences and professional events. One example is the [Advanced Visualizations with Stata](https://github.com/asjadnaqvi/The-Stata-Guide/) series, which introduces new packages and discusses emerging visualization techniques within the Stata ecosystem.
+
+
+I also conduct workshops and seminars on a regular basis. Many of these are open to the public and organized in collaboration with [Stata UK](https://www.stata-uk.com/) and [DPC Software](https://dpc-software.de/en/).
+
+
+In addition, I have delivered tailored workshops directly for universities and other institutions. If you are interested in organizing a workshop or seminar, please feel free to get in touch.
+
 
 
 <div class="row">
@@ -44,12 +57,17 @@ I regularly present my work in various conferences. For example, my [Advanced Vi
 
 
 ## Client engagement
-I also contract directly with clients such as multilateral organizations, ministries, and universities to support them with data workflows, creating piplines for complex data analysis, customizing visualization packages, and even directly creating visualizations for various reports etc. Doing this type of work was not really planned but some of these projects were too exciting to pass. Even though I cannot say much about these projects till they are officially launched, it is usually around them that the packages get a burst of upgrades followed by social media activity. If you also want support with large projects then please reach out!
+I also work directly with clients. This includes multilateral organizations, ministries, and universities where most of the requests are for data workflows, complex analytical pipelines, custom extensions of existing visualization packages, and the production of publication-ready graphics for articles, reports, and policy documents.
+
+While this type of engagement was not originally planned, several projects were too exciting to decline. Such collaborations also frequently coincide with intensive development phases, during which packages receive substantial upgrades and refinements. If you are seeking support for a larger analytical or visualization project, please feel free to reach out.
+
 
 ## Portfolio and packages
-You can view my [StataViz Portfolio](https://asjadnaqvi.github.io/stata-portfolio) or follow my social media accounts for updates.
 
-The list of Stata packages that are currently online are listed below:
+You can browse examples of my work in the [StataViz Portfolio](https://asjadnaqvi.github.io/stata-portfolio) or follow my social media accounts for updates on new releases and workshops.
+
+
+The Stata packages that are currently available online are listed below:
 
 <!-- pages/projects.md -->
 <div class="projects">
