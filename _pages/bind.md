@@ -42,3 +42,8 @@ The BinD model shows that SIDS can shift between two macroeconomic regimes. In a
 
 The BinD model offers policymakers and researchers a comprehensive tool for evaluating climate-resilient development strategies. It helps clarify how climate shocks interact with financial constraints, which warming trajectories allow for sustainable growth, and how tax-based, debt-based, or grant-based financing strategies affect long-run outcomes. The model also underscores the critical role of predictable, affordable international climate finance, as domestic policies alone are insufficient to compensate for structural vulnerabilities. Ultimately, the BinD model demonstrates that both national strategies and global support are necessary for SIDS to build resilience and achieve sustainable development.
 
+## Funding and support
+
+The development of the WAVE model took place at the [International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/) and later at [Austrian Institute of Economic Research (WIFO)](https://www.wifo.ac.at/) in collaboration with [Ozlem Omer Cender](https://www.bucknell.edu/fac-staff/ozlem-omer-cender) at [Bucknell University](https://www.bucknell.edu/) and Nepomuk Dunz at the [World Bank](https://www.worldbank.org/ext/en/home).
+
+The project was partly funded by the Austrian National Bank's [Jubiläumsfond](https://www.oenb.at/Ueber-Uns/Forschungsfoerderung/Jubilaeumsfonds.html) DioD project and by the World Bank.
