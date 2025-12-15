@@ -50,7 +50,7 @@ These layers interact continuously. Production decisions affect wages and prices
 
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/layers.png" title="Stylized multi-layer behavioral network framework (production–trade and household–migration layers)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -71,7 +71,7 @@ Decisions are **probabilistic rather than optimizing**, reflecting bounded ratio
 
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/shelscape_framework.png" title="Stylized multi-layer behavioral network framework (production–trade and household–migration layers)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -92,7 +92,7 @@ Crossing these thresholds can generate **non-linear transitions**, including cas
 
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/shelscape_thresholds.png" title="Thresholds in household consumption and firm production decisions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -116,7 +116,7 @@ Rather than converging smoothly to a new equilibrium, the system often exhibits 
 
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cyclical_vulnerability.png" title="Cyclical vulnerability and post-shock transition dynamics" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -136,7 +136,7 @@ This allows the identification of **vulnerability hotspots**, even in regions no
 
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/vrank_evolution.png" title="Spatial-temporal evolution of vulnerability (VRank)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -165,7 +165,7 @@ The SHELScape framework naturally extends to:
 These extensions allow the model to connect disaster risk analysis with broader macro-financial and development questions.
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/MD_networks.png" title="Generic approach to multi-layer networks" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -180,7 +180,7 @@ SHELscape started as my dissertation project during the joint UMASS-Amherst and 
 
 There are two challenges with developing a spatially-explicit micro-founded Agent-Based Model (ABM). First are decisions to move around a pre-defined space, and second to make behvioral decisions that among other things, also involve moving around the canvas. Agents can "own" variables (or asset stocks) such as labor, money, food etc that can be intialized based on some distribution, and these can evolve depending on interactions with the (a) environment and (b) with other agents. Since SHELScape is an economic model, the behavior needs to come from economic literature on agents make decisions. So two parallel developments took place during the development of the model; (a) learn and master NetLogo especially on how agents move around, and store decisions in a complex array of nested lists, and (b) find the relevant socioeconomic literature on how agents deal with shocks. This opened up a rabbit hole of diving deeper into the literature on decision-making under uncertainity, evidence on income and consumption smoothing, permanent income hypothesis, etc. On the programming side there was another challenge; since agents exist at specific locations that form their own micro cosmos of economic interactions, a change of location would alter the behivior as agents get added and subtracted. But changing locations is a complex process which also implies physically moving from one location to another along links of varying lengths (or road networks) that can get destroyed. At that point, pathing routines did not exist in NetLogo. As a result, countless hours went into learning about Djikstra and A-Star algorithms. Even though I abandoned this micro agent-level focus later (for various reasons we will discuss below), I did manage to implement the Djikstra algorithm, which was its own reward. Later versions of NetLogo did incorporate shortest-distance routines with the additional of the network (nw) extension,  but I had already built a flexible path-finding function that could minimize travel time based on distances (link lengths) or hops (fewest node changes), and could be combined with different probability weights (income, distance, community at destination etc.) for running different scenarios.
 
-The first version of the model (v1.0 2008-2012) led to my first publication in 2014 in the Journal of Economic Interaction and Coordination (JEIC) {% cite NaqviRehm2014 %}. The paper looked at 2010 flooding impact in Pakistan and modeled displacement of populations and markets adjustments. In 2012, during the Young Scientist Summer Program (YSSP) at IIASA, led to the development of the second version of SHELscape (v2.0 2012-2021) that was considerably more aggregate and more policy oriented. It was a meso-level upgrade to the first version where the uncessary routines of micro agent decisions, including traveling and movements along paths were taken out. Instead, nodes (or locations) would sending flows of people and goods based that would arrive based on distances and their relative distances. This version also had a stronger focus on better market mechanisms, better implementation of probabilitic decision making, and ring-fencing of spatial extents to make the model computationally faster (other if all locations are being evaluated, then we would have a $$O(N^2)$$ explosion). SHELScape 2.0, led to several publications; World Development in 2017, that explored 2008 post-earthquake in northern Pakistan {% cite Naqvi2017b %}, 2020 paper on bread-basket failures in India using Copulas {% cite Naqvi2020 %}, and the 2021 paper in Nature Scientific Reports, that contextualized the model framework, and introduced *VRank*, a multi-layer indicator for synthesizing the complexity of different market adjustments {% cite Naqvi2021b %}.
+The first version of the model (v1.0 2008-2012) led to my first publication in 2014 in the Journal of Economic Interaction and Coordination (JEIC) {% cite NaqviRehm2014 %}. The paper looked at 2010 flooding impact in Pakistan and modeled displacement of populations and markets adjustments. In 2012, during the Young Scientist Summer Program (YSSP) at IIASA, led to the development of the second version of SHELscape (v2.0 2012-2021) that was considerably more aggregate and more policy oriented. It was a meso-level upgrade to the first version where the uncessary routines of micro agent decisions, including traveling and movements along paths were taken out. Instead, nodes (or locations) would sending flows of people and goods based that would arrive based on distances and their relative distances. This version also had a stronger focus on better market mechanisms, better implementation of probabilitic decision making, and ring-fencing of spatial extents to make the model computationally faster (other if all locations are being evaluated, then we would have a O(N^2) explosion). SHELScape 2.0, led to several publications; World Development in 2017, that explored 2008 post-earthquake in northern Pakistan {% cite Naqvi2017b %}, 2020 paper on bread-basket failures in India using Copulas {% cite Naqvi2020 %}, and the 2021 paper in Nature Scientific Reports, that contextualized the model framework, and introduced *VRank*, a multi-layer indicator for synthesizing the complexity of different market adjustments {% cite Naqvi2021b %}.
 
 
 ## Funding and support
