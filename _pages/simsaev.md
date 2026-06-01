@@ -2,10 +2,11 @@
 layout: page
 title: MATSim Vienna
 permalink: /matsim/
-description:
+description: MATSim-based analysis of shared autonomous electric vehicles, PM10 exposure, and mobility policy in Vienna.
 nav: false
 display_categories: 
 horizontal: false
+related_publications: true
 ---
 
 ## Simulating the Future of Urban Mobility in Vienna
@@ -14,9 +15,15 @@ This page summarizes the **SimSAEV** project, short for *Simulating the Socio-ec
 
 The project uses Vienna as a case study to examine how shared, autonomous, electric vehicles could affect travel behavior, emissions, and exposure to traffic-related pollution. It combines agent-based transport simulation with detailed spatial analysis to study both system-wide effects and distributional outcomes.
 
-The work resulted in two related papers. One focuses on traffic-related particulate matter exposure in Vienna. The other studies the introduction of shared, electric, autonomous vehicles in suburban zones at the edge of the city.
+The work resulted in two related papers. One focuses on traffic-related particulate matter exposure in Vienna {% cite simsaev3 %}. The other studies the introduction of shared, electric, autonomous vehicles in suburban zones at the edge of the city {% cite simsaev2 %}.
 
 Together, the papers show both the promise and the limits of technological change in urban mobility.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/simsaev_framework.svg" title="SimSAEV framework" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Why This Matters
 
@@ -58,9 +65,6 @@ The model simulates a representative day in Vienna. It tracks:
 - how much PM10 they are exposed to.
 
 The model estimates hourly PM10 concentration surfaces for the city using a spatial dispersion approach. These concentration levels are then linked back to agents' activity locations and travel behavior. Exposure is calculated for time spent at home, work, education, other locations, and while traveling by walking, cycling, car, public transport, or SAEV.
-
-The study therefore goes beyond a static pollution map. It asks how air pollution exposure changes over time and across people.
-
 ## Main Findings on PM10 Exposure
 
 The results show that PM10 concentrations peak during the morning and evening travel periods. Major roads and the inner-city road network are important exposure hotspots.

@@ -2,7 +2,7 @@
 layout: page
 title: Decoupling
 permalink: /decoupling/
-description:
+description: Evidence on emissions-output decoupling across EU countries, sectors, and regions.
 nav: false
 display_categories: 
 horizontal: false

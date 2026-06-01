@@ -2,7 +2,7 @@
 layout: page
 title: SFC models
 permalink: /sfcs/
-description:
+description: Stock-flow consistent macroeconomic models for climate, distribution, and policy analysis.
 nav: false
 display_categories: 
 horizontal: false

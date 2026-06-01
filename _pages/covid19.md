@@ -2,7 +2,7 @@
 layout: page
 title: COVID-19 tracker
 permalink: /covid19/
-description:
+description: A harmonized sub-national dataset tracking daily COVID-19 cases across 26 European countries.
 nav: false
 display_categories: 
 horizontal: false

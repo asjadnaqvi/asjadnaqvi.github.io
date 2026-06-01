@@ -2,7 +2,7 @@
 layout: page
 title: Welfare and Value-Added Elasticities (WAVE)
 permalink: /wave/
-description: 
+description: An integrated demand-system MRIO framework to estimate value-added and welfare impacts of global shocks.
 nav: false
 display_categories: 
 horizontal: false

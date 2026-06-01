@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 640" role="img" aria-labelledby="title desc">
+  <title id="title">SimSAEV core findings</title>
+  <desc id="desc">Summary chart of key results from the two SimSAEV papers.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fbfd" />
+      <stop offset="100%" stop-color="#eef4f8" />
+    </linearGradient>
+    <style>
+      .title { font: 700 30px Arial, sans-serif; fill: #15324b; }
+      .subtitle { font: 500 18px Arial, sans-serif; fill: #2a4b63; }
+      .label { font: 600 16px Arial, sans-serif; fill: #143145; }
+      .small { font: 500 13px Arial, sans-serif; fill: #28455b; }
+      .panel { fill: #ffffff; stroke: #6288a1; stroke-width: 2; rx: 14; }
+      .axis { stroke: #6f8798; stroke-width: 2; }
+      .barA { fill: #2d6f94; }
+      .barB { fill: #5ca17b; }
+      .barC { fill: #d78a45; }
+      .tag { fill: #f2f7fb; stroke: #6f8798; stroke-width: 1.5; rx: 8; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1100" height="640" fill="url(#bg2)" />
+
+  <text x="40" y="54" class="title">SIMSAEV Key Quantitative Findings</text>
+  <text x="40" y="84" class="subtitle">Traffic exposure, mode substitution, and policy sensitivity in Vienna</text>
+
+  <rect x="40" y="120" width="500" height="470" class="panel" />
+  <text x="60" y="155" class="label">Paper 1: PM10 Exposure Dynamics</text>
+  <text x="60" y="183" class="small">Traffic peaks increase concentration and exposure, with uneven social burdens.</text>
+
+  <line x1="80" y1="490" x2="500" y2="490" class="axis" />
+  <line x1="80" y1="220" x2="80" y2="490" class="axis" />
+
+  <rect x="120" y="340" width="65" height="150" class="barA" />
+  <rect x="230" y="300" width="65" height="190" class="barA" />
+  <rect x="340" y="255" width="65" height="235" class="barA" />
+
+  <text x="112" y="515" class="small">Low</text>
+  <text x="220" y="515" class="small">Peak</text>
+  <text x="322" y="515" class="small">Hotspot</text>
+
+  <rect x="100" y="540" width="380" height="36" class="tag" />
+  <text x="114" y="563" class="small">Higher exposure: children, urban residents, pedestrians, cyclists</text>
+
+  <rect x="580" y="120" width="480" height="470" class="panel" />
+  <text x="600" y="155" class="label">Paper 2: SAEV Mode Shift Outcomes</text>
+  <text x="600" y="183" class="small">Default scenarios replace limited car travel and can crowd out active modes.</text>
+
+  <line x1="630" y1="490" x2="1020" y2="490" class="axis" />
+  <line x1="630" y1="220" x2="630" y2="490" class="axis" />
+
+  <rect x="680" y="452" width="48" height="38" class="barB" />
+  <rect x="760" y="424" width="48" height="66" class="barB" />
+  <rect x="840" y="340" width="48" height="150" class="barC" />
+  <rect x="920" y="286" width="48" height="204" class="barC" />
+
+  <text x="664" y="515" class="small">7%</text>
+  <text x="745" y="515" class="small">14%</text>
+  <text x="824" y="515" class="small">23%</text>
+  <text x="904" y="515" class="small">35%</text>
+
+  <text x="654" y="538" class="small">Car trips replaced</text>
+  <text x="835" y="538" class="small">Walk/cycle replaced</text>
+
+  <rect x="610" y="560" width="420" height="36" class="tag" />
+  <text x="624" y="583" class="small">With stronger car pricing, car-trip replacement rises to 17-20% (up to 32% CO2 cuts).</text>
+</svg>
