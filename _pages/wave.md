@@ -9,13 +9,13 @@ horizontal: false
 related_publications: true
 ---
 
-*(NOTE: this page is still in the process of being updated)*
+This page summarizes ongoing research and is updated periodically.
 
 Assessing how global economic shocks spread across countries and sectors requires tools that capture both behavioral responses and structural interdependencies. 
 
 Trade models estimate welfare changes using substitution elasticities, but these are often externally calibrated and sometimes rely on strong assumptions such as homothetic and linear preferences. They tell us how trade flows might reallocate but not how these shifts propagate non-linearly through domestic and international production networks. Similarly, multi-region input-output (MRIO) models excel at describing supply-chain propagation, but usually rely on aggregate or approximated changes across intermediate and final demand often missing out on subtle treatments of the role of dependencies and substitutability across sectors. 
 
-These limitations have motivated the development of the **Welfare and Value Added Elasticities (WAVE)** model, which integrates flexible demand estimation with structural dependencies from MRIO linkagesto deliver a coherent and empirically grounded welfare analysis of structural shocks.
+These limitations have motivated the development of the **Welfare and Value Added Elasticities (WAVE)** model, which integrates flexible demand estimation with structural dependencies from MRIO linkages to deliver a coherent and empirically grounded welfare analysis of structural shocks.
 
 
 ## What the WAVE Model Does  
@@ -50,7 +50,7 @@ WAVE differs fundamentally from traditional trade or IO models in several ways. 
 
 Second, by embedding these elasticities within the MRIO system, WAVE models the entire pass-through of shocks, from consumer substitution to global supply-chain propagation, offering a richer picture than either approach can provide alone.
 
-Third, the framework can evaluates the impact on Value Added or GDP losses, allowing for a more macro policy-level analysis.
+Third, the framework can evaluate the impact on Value Added or GDP losses, allowing for a more macro policy-level analysis.
 
 
 
@@ -94,9 +94,9 @@ The results for the United States and China further illustrate the systemic natu
 
 The WAVE model provides the foundations for a broader research agenda. 
 
-The model can be used for a quick analysis of short- to medium-run income and/or price disruptions and how they cascade across countries and sectors. The results also be used as inputs to calibrate behavioral responses in macroeconomic models for an in-depth or a long-term analysis. 
+The model can be used for a quick analysis of short- to medium-run income and/or price disruptions and how they cascade across countries and sectors. The results can also be used as inputs to calibrate behavioral responses in macroeconomic models for an in-depth or long-term analysis.
 
-The model can be easily extended to incorporate the evaluation of other indicators. Adding employment rates by sector can support with the analysis of labor-market impacts, and indirect losses from demand-side multiplers. Linking environmental satellite accounts can allow for the analysis of emissions, resource use, and sustainability transitions.
+The model can be easily extended to incorporate the evaluation of other indicators. Adding employment rates by sector can support the analysis of labor-market impacts and indirect losses from demand-side multipliers. Linking environmental satellite accounts can allow for the analysis of emissions, resource use, and sustainability transitions.
 
 As global disruptions become more frequent and complex, WAVE offers a scalable, empirically-grounded framework for understanding how shocks are likely to propagate, who is most affected, and where resilience can be strengthened across global supply chains.
 

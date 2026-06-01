@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: Asjad_Naqvi_CV_Dec2025.pdf
+cv_pdf: CV_Asjad_Jan2026.pdf
 description:
 toc:
   sidebar: left

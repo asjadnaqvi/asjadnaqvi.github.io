@@ -9,7 +9,7 @@ horizontal: false
 related_publications: true
 ---
 
-*(NOTE: this page is still in the process of being updated)*
+This page summarizes ongoing research and is updated periodically.
 
 Small Island Developing States (SIDS) face some of the world's most severe economic and climatic pressures. Rising temperatures, increasingly frequent extreme weather events, heavy dependence on imported capital goods, and limited fiscal and financial buffers all combine to make sustainable growth exceptionally challenging. The **BinD model** {% cite bind2023 %}, a structural, demand-led macroeconomic framework, was developed to help understand how these pressures interact and how SIDS can navigate a future shaped by climate change. This blog post introduces the model, explains its core mechanisms, and highlights why it offers valuable guidance for policymaking in climate-vulnerable economies. An earlier version of the model was applied to Fiji for an ADB report {% cite ADB2022 %}
 
@@ -22,7 +22,7 @@ The BinD model addresses these gaps by extending the classic three-gap framework
 
 ## Core framework
 
-At the heart of theBinD model lies the interaction between aggregate demand, capital accumulation, and climate-induced supply constraints. Under normal circumstances, output expands in response to demand, which is driven by household consumption, private investment, government spending, and export activity. However, the productive capacity of SIDS is often fragile, as much of their capital stock must be imported and maintained at significant cost.
+At the heart of the BinD model lies the interaction between aggregate demand, capital accumulation, and climate-induced supply constraints. Under normal circumstances, output expands in response to demand, which is driven by household consumption, private investment, government spending, and export activity. However, the productive capacity of SIDS is often fragile, as much of their capital stock must be imported and maintained at significant cost.
 
 As climate change accelerates capital depreciation and reduces labor productivity, investment needs rise while domestic savings fall. Extreme weather destroys infrastructure and machinery, while rising temperatures limit the productivity of outdoor workers. Reconstruction and maintenance efforts increase import requirements, intensifying pressure on the external balance. These processes can cause economies to reach their capacity limits even when demand remains strong, demonstrating a core insight of the BinD model: demand-led growth cannot be sustained when climate damages and financial scarcity restrict capital formation.
 

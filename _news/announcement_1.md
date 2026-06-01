@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Research pages and supporting copy are being refreshed and updated in phases.
