@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620" role="img" aria-labelledby="title desc">
+  <title id="title">SimSAEV framework</title>
+  <desc id="desc">Conceptual framework showing transport network, mobility modes, and outcomes used in the SimSAEV analysis.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4f8fb" />
+      <stop offset="100%" stop-color="#e9f0f6" />
+    </linearGradient>
+    <style>
+      .title { font: 700 30px Arial, sans-serif; fill: #15324b; }
+      .subtitle { font: 500 18px Arial, sans-serif; fill: #2a4b63; }
+      .label { font: 600 15px Arial, sans-serif; fill: #143145; }
+      .small { font: 500 13px Arial, sans-serif; fill: #28455b; }
+      .box { fill: #ffffff; stroke: #5f87a2; stroke-width: 2; rx: 14; }
+      .pill { fill: #d9e8f2; stroke: #5f87a2; stroke-width: 2; rx: 14; }
+      .node { fill: #fdfefe; stroke: #356786; stroke-width: 2; }
+      .edge { stroke: #8aa9bd; stroke-width: 2; }
+      .arrow { stroke: #2f6889; stroke-width: 2.5; marker-end: url(#arrow); fill: none; }
+      .accent { fill: #e8f3ea; stroke: #5d9d73; stroke-width: 2; rx: 14; }
+      .outcome { fill: #fff3e6; stroke: #cc8b45; stroke-width: 2; rx: 14; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 z" fill="#2f6889" />
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1100" height="620" fill="url(#bg)" />
+
+  <text x="40" y="54" class="title">SIMSAEV in Vienna: Modeling Pipeline</text>
+  <text x="40" y="84" class="subtitle">Agent-based transport simulation linked to exposure and policy outcomes</text>
+
+  <rect x="40" y="120" width="320" height="230" class="box" />
+  <text x="60" y="152" class="label">Urban Transport Network (MATSim)</text>
+  <line x1="85" y1="205" x2="185" y2="180" class="edge" />
+  <line x1="185" y1="180" x2="255" y2="235" class="edge" />
+  <line x1="85" y1="205" x2="145" y2="270" class="edge" />
+  <line x1="145" y1="270" x2="255" y2="235" class="edge" />
+  <line x1="185" y1="180" x2="145" y2="270" class="edge" />
+  <circle cx="85" cy="205" r="14" class="node" />
+  <circle cx="185" cy="180" r="14" class="node" />
+  <circle cx="255" cy="235" r="14" class="node" />
+  <circle cx="145" cy="270" r="14" class="node" />
+  <text x="60" y="320" class="small">Synthetic agents, daily schedules, route and mode choice</text>
+
+  <rect x="390" y="120" width="320" height="230" class="accent" />
+  <text x="410" y="152" class="label">Mode and Scenario Layer</text>
+  <rect x="415" y="182" width="120" height="34" class="pill" />
+  <text x="438" y="204" class="small">Walking</text>
+  <rect x="555" y="182" width="120" height="34" class="pill" />
+  <text x="588" y="204" class="small">Transit</text>
+  <rect x="415" y="230" width="120" height="34" class="pill" />
+  <text x="455" y="252" class="small">Car</text>
+  <rect x="555" y="230" width="120" height="34" class="pill" />
+  <text x="585" y="252" class="small">SAEV</text>
+  <text x="410" y="300" class="small">Policy levers: fleet size, pricing, car costs</text>
+  <text x="410" y="322" class="small">Spatial focus: urban core and suburban zones</text>
+
+  <rect x="740" y="120" width="320" height="230" class="outcome" />
+  <text x="760" y="152" class="label">Exposure and Emissions Outputs</text>
+  <text x="760" y="188" class="small">- Hourly PM10 concentration maps</text>
+  <text x="760" y="215" class="small">- Person-level exposure by activity and mode</text>
+  <text x="760" y="242" class="small">- Mode substitution and travel time impacts</text>
+  <text x="760" y="269" class="small">- CO2 and distributional effects</text>
+  <text x="760" y="306" class="small">Used for policy testing and equity analysis</text>
+
+  <path d="M362 235 L385 235" class="arrow" />
+  <path d="M712 235 L735 235" class="arrow" />
+
+  <rect x="40" y="390" width="1020" height="170" class="box" />
+  <text x="60" y="425" class="label">Policy interpretation</text>
+  <text x="60" y="455" class="small">SAEVs can reduce emissions and exposure, but gains depend on what trips they replace and where they operate.</text>
+  <text x="60" y="483" class="small">Best results occur when SAEVs complement rail/public transport and are paired with measures reducing private car dependence.</text>
+  <text x="60" y="511" class="small">Distribution matters: average improvements can coexist with persistent hotspots and social exposure inequality.</text>
+</svg>
